@@ -2,7 +2,7 @@
   "_id": "fc35461dfdcfaa0b",
   "name": "FAB-NG Feeding Canister (4 Standard Nets)",
   "type": "ammo",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/ammo/fab-ng-feeding-canister-4-standard-nets.webp",
   "system": {
     "quantity": 1,
     "damageModifier": 0,

@@ -2,7 +2,7 @@
   "_id": "fe65a160c58047cc",
   "name": "Ares Guardian Drone",
   "type": "vehicle",
-  "img": "icons/svg/car.svg",
+  "img": "modules/sr2e-corporate-security/assets/vehicle_portraits/ares-guardian-drone.webp",
   "system": {
     "skill": "",
     "acceleration": 0,
@@ -49,7 +49,7 @@
     "actorLink": false,
     "disposition": 0,
     "texture": {
-      "src": "icons/svg/car.svg"
+      "src": "modules/sr2e-corporate-security/assets/vehicle_portraits/ares-guardian-drone.webp"
     },
     "lockRotation": false
   },

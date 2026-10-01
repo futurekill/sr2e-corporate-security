@@ -2,7 +2,7 @@
   "_id": "f749905127cccc8d",
   "name": "Gamma-Scopolamine",
   "type": "gear",
-  "img": "icons/svg/pill.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/gamma-scopolamine.webp",
   "system": {
     "category": "drug",
     "rating": 0,

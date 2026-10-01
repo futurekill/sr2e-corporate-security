@@ -2,7 +2,7 @@
   "_id": "b40f91feff6af84e",
   "name": "Active Infrared Portable Floodlight",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/active-infrared-portable-floodlight.webp",
   "system": {
     "category": "security",
     "rating": 0,

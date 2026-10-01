@@ -2,7 +2,7 @@
   "_id": "eb25a29169bb25a1",
   "name": "Enhanced Perception (Tier 3)",
   "type": "adept_power",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/adept_power/enhanced-perception-tier-3.webp",
   "system": {
     "level": 1,
     "attributeMods": {

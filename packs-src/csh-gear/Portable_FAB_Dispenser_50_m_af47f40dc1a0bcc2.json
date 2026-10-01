@@ -2,7 +2,7 @@
   "_id": "af47f40dc1a0bcc2",
   "name": "Portable FAB Dispenser (50 m³)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/portable-fab-dispenser-50-m.webp",
   "system": {
     "category": "security",
     "rating": 0,

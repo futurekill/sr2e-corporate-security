@@ -2,7 +2,7 @@
   "_id": "8f1cd307330d8bb5",
   "name": "FAB-UV Aerosol (500 m³)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/fab-uv-aerosol-500-m.webp",
   "system": {
     "category": "general",
     "rating": 0,

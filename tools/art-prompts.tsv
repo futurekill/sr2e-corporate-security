@@ -1,0 +1,41 @@
+weapon/ares-supersquirt-ii	sleek compact compressed-air dart pistol with two parallel removable clips (gel reservoir and chemical) and a CO2 canister in the grip, Ares corporate styling
+weapon/ares-cascade-rifle	futuristic chemical-delivery rifle with a selectable spray/stream nozzle, two parallel clips and a CO2 canister in the stock
+weapon/ares-eld-ar-assault-rifle	compressed-gas paintball-style assault rifle firing gel-coated rounds, sleek corporate security model, gas canister in the stock
+weapon/bacteritech-fab-ng-netgun-standard	bulky net gun with a wide muzzle, translucent tubes glowing faint green with bacteria, a feeding canister underneath
+weapon/bacteritech-fab-ng-netgun-large	larger heavier version of a net gun with a very wide muzzle and a big glowing green bacteria feeding canister
+ammo/fab-ng-net	folded net of hollow translucent polymer tubes filled with glowing green bacteria, in a cartridge
+ammo/fab-ng-feeding-canister	sealed pressurized canister with a viewing window of glowing green bacterial soup
+ammo/eld-ar-paint-rounds-10	box of ten gel-coated paint rounds in bright marking colours
+ammo/eld-ar-gelcoat-filling-kit	compact kit with empty gel capsules, a filling syringe and vials
+ammo/reservoir-clip	translucent pistol clip filled with clear DMSO gel
+gear/individualized-biometric-safety-ibs	pistol grip with an integrated glowing palm-print scanner pad
+cyberware/individualized-biometric-safety-cyber-modification	chrome cyberhand palm with an embedded pass-chip slot glowing faintly
+gear/low-wattage-flashlight	compact tactical flashlight with a soft dim amber beam
+gear/low-wattage-top-underbarrel-mount	weapon-mounted tactical light module, soft dim amber beam
+gear/low-wattage-portable-floodlight	portable security floodlight on a folding stand, soft dim amber glow
+gear/active-infrared-flashlight	tactical flashlight with a dark lens emitting a faint deep-red infrared glow
+gear/active-infrared-top-underbarrel-mount	weapon-mounted light with a dark infrared lens, faint deep-red glow
+gear/active-infrared-portable-floodlight	portable floodlight with a dark infrared panel, faint deep-red glow
+gear/ultraviolet-flashlight	tactical flashlight emitting a violet ultraviolet beam
+gear/ultraviolet-top-underbarrel-mount	weapon-mounted light emitting a violet ultraviolet beam
+gear/ultraviolet-portable-floodlight	portable floodlight on a stand bathing the scene in violet ultraviolet light
+gear/ares-maglock	heavy electronic magnetic door lock with a keypad and card slot, status LED
+gear/ares-biometric-maglock	high-security magnetic door lock with a palm and retinal scanner, glowing scan light
+gear/gamma-scopolamine	sleek auto-injector with a dark amber vial, nightshade leaf motif
+gear/fab-1-canister	large industrial pressurized canister with biohazard markings and a window of glowing green bacterial soup
+gear/fab-1-coolant-feeding-vat	refrigerated industrial vat with frost, pipes and a green glow inside
+gear/fab-uv-aerosol	pressurized aerosol tank with a nozzle, contents glowing violet under UV
+gear/fab-uv-freezer	sub-zero laboratory freezer with frost and violet glowing canisters inside
+gear/cerebrotech-computerized-release-control	wall-mounted security control panel with valves, screens and a big release switch
+gear/pressurized-release-conduit	reinforced pressurized pipe conduit section with gauges and valves
+gear/portable-fab-dispenser-50-m	portable wheeled dispenser unit with a hose and a green glowing tank
+gear/ares-sentinel-weapons-pod	modular drone weapons pod with twin gun barrels on a turret mount
+adept_power/enhanced-perception	stylised glowing eye with radiating astral light, magical aura
+adept_power/extended-missile-parry	glowing magical hand deflecting a bullet in mid-air, protective aura
+vehicle_mod/wet-bar	compact aircraft cabin wet bar with bottles and glasses
+vehicle_mod/rigger-control-system	vehicle rigger control console with datajack cables and glowing displays
+vehicle_mod/full-communications-suite	compact aircraft communications rack with antennas and screens
+vehicle_mod/lavatory	compact aircraft lavatory module, sleek and clean
+vehicle_mod/kitchenette	compact aircraft galley kitchenette
+vehicle_mod/entertainment-system	cabin entertainment console with a screen and trideo projector
+vehicle_mod/rear-access-ramp	aircraft rear cargo ramp lowered, hydraulic struts

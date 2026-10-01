@@ -2,7 +2,7 @@
   "_id": "972b30dd4703e0f4",
   "name": "BacteriTech FAB-NG Netgun (Large)",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/weapon/bacteritech-fab-ng-netgun-large.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

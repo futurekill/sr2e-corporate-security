@@ -2,7 +2,7 @@
   "_id": "fda9cd06a182a3be",
   "name": "Cascade Reservoir Clip",
   "type": "ammo",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/ammo/cascade-reservoir-clip.webp",
   "system": {
     "quantity": 1,
     "damageModifier": 0,

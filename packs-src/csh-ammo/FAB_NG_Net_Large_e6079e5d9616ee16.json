@@ -2,7 +2,7 @@
   "_id": "e6079e5d9616ee16",
   "name": "FAB-NG Net (Large)",
   "type": "ammo",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/ammo/fab-ng-net-large.webp",
   "system": {
     "quantity": 1,
     "damageModifier": 0,

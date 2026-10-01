@@ -2,7 +2,7 @@
   "_id": "05485f4656ec3fed",
   "name": "SuperSquirt II Reservoir Clip",
   "type": "ammo",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/ammo/supersquirt-ii-reservoir-clip.webp",
   "system": {
     "quantity": 1,
     "damageModifier": 0,

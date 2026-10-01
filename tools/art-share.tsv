@@ -1,0 +1,17 @@
+ammo/fab-ng-net	ammo/fab-ng-net-standard ammo/fab-ng-net-large
+ammo/fab-ng-feeding-canister	ammo/fab-ng-feeding-canister-4-standard-nets ammo/fab-ng-feeding-canister-4-large-nets
+ammo/reservoir-clip	ammo/supersquirt-ii-reservoir-clip ammo/cascade-reservoir-clip
+gear/ares-maglock	gear/ares-maglock-type-i gear/ares-maglock-type-ii gear/ares-maglock-type-iii gear/ares-maglock-type-iv
+gear/fab-1-canister	gear/fab-1-canister-50-m gear/fab-1-canister-500-m gear/fab-1-canister-5-000-m
+gear/fab-1-coolant-feeding-vat	gear/fab-1-coolant-feeding-vat-50-m gear/fab-1-coolant-feeding-vat-500-m gear/fab-1-coolant-feeding-vat-5-000-m
+gear/fab-uv-aerosol	gear/fab-uv-aerosol-50-m gear/fab-uv-aerosol-500-m
+gear/fab-uv-freezer	gear/fab-uv-freezer-50-m gear/fab-uv-freezer-500-m
+gear/ares-sentinel-weapons-pod	gear/ares-sentinel-weapons-pod-i gear/ares-sentinel-weapons-pod-ii gear/ares-sentinel-weapons-pod-iii gear/ares-sentinel-weapons-pod-iv
+adept_power/enhanced-perception	adept_power/enhanced-perception-tier-1 adept_power/enhanced-perception-tier-2 adept_power/enhanced-perception-tier-3
+vehicle_mod/wet-bar	vehicle_mod/wet-bar-steward-area-tr-55t vehicle_mod/wet-bar-tr-55e
+vehicle_mod/rigger-control-system	vehicle_mod/rigger-control-system-tr-55t vehicle_mod/rigger-control-system-tr-55e vehicle_mod/rigger-control-system-tr-55c
+vehicle_mod/full-communications-suite	vehicle_mod/full-communications-suite-tr-55e
+vehicle_mod/lavatory	vehicle_mod/lavatory-tr-55e
+vehicle_mod/kitchenette	vehicle_mod/kitchenette-tr-55e
+vehicle_mod/entertainment-system	vehicle_mod/entertainment-system-tr-55e
+vehicle_mod/rear-access-ramp	vehicle_mod/rear-access-ramp-tr-55c

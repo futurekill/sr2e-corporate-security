@@ -2,7 +2,7 @@
   "_id": "0a742ed10747b6ee",
   "name": "Rigger Control System (TR-55T)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/rigger-control-system-tr-55t.webp",
   "system": {
     "modType": "general",
     "rating": 0,

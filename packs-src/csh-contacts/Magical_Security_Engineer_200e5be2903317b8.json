@@ -361,7 +361,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-corporate-security/assets/contact_portraits/magical-security-engineer.webp"
     },
     "lockRotation": true
   },

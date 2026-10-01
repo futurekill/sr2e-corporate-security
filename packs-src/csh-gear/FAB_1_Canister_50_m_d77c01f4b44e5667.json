@@ -2,7 +2,7 @@
   "_id": "d77c01f4b44e5667",
   "name": "FAB-1 Canister (50 m³)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/fab-1-canister-50-m.webp",
   "system": {
     "category": "general",
     "rating": 0,

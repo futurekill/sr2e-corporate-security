@@ -2,7 +2,7 @@
   "_id": "506fe291e95af80c",
   "name": "Ultraviolet Top/Underbarrel Mount",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/ultraviolet-top-underbarrel-mount.webp",
   "system": {
     "category": "security",
     "rating": 0,

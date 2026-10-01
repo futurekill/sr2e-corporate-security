@@ -2,7 +2,7 @@
   "_id": "f492fc71f77debb2",
   "name": "Ares ELD-AR Assault Rifle",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/weapon/ares-eld-ar-assault-rifle.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

@@ -2,7 +2,7 @@
   "_id": "3eb9f461089b62b8",
   "name": "Ares Sentinel Weapons Pod III",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/ares-sentinel-weapons-pod-iii.webp",
   "system": {
     "category": "security",
     "rating": 0,

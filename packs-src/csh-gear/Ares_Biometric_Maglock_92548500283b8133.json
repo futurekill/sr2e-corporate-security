@@ -2,7 +2,7 @@
   "_id": "92548500283b8133",
   "name": "Ares Biometric Maglock",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/ares-biometric-maglock.webp",
   "system": {
     "category": "security",
     "rating": 7,

@@ -2,7 +2,7 @@
   "_id": "d3dc54a91defbba7",
   "name": "Kitchenette (TR-55E)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/kitchenette-tr-55e.webp",
   "system": {
     "modType": "general",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "2c5af8f0b6b44e6e",
   "name": "Rear Access Ramp (TR-55C)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/rear-access-ramp-tr-55c.webp",
   "system": {
     "modType": "general",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "d88cfc88ac2637d5",
   "name": "Wet Bar/Steward Area (TR-55T)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/wet-bar-steward-area-tr-55t.webp",
   "system": {
     "modType": "general",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "87f89159934cd843",
   "name": "Ares TR-55E \"President's Edition\" Executive VTOL",
   "type": "vehicle",
-  "img": "icons/svg/car.svg",
+  "img": "modules/sr2e-corporate-security/assets/vehicle_portraits/ares-tr-55e-presidents-edition-executive-vtol.webp",
   "system": {
     "skill": "",
     "acceleration": 0,
@@ -49,7 +49,7 @@
     "actorLink": false,
     "disposition": 0,
     "texture": {
-      "src": "icons/svg/car.svg"
+      "src": "modules/sr2e-corporate-security/assets/vehicle_portraits/ares-tr-55e-presidents-edition-executive-vtol.webp"
     },
     "lockRotation": false
   },

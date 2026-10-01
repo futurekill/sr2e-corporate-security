@@ -2,7 +2,7 @@
   "_id": "7e01e6e5ef540857",
   "name": "Full Communications Suite (TR-55E)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/full-communications-suite-tr-55e.webp",
   "system": {
     "modType": "general",
     "rating": 0,

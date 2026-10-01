@@ -2,7 +2,7 @@
   "_id": "cdb05f8a97549906",
   "name": "Individualized Biometric Safety (Cyber Modification)",
   "type": "cyberware",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/cyberware/individualized-biometric-safety-cyber-modification.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

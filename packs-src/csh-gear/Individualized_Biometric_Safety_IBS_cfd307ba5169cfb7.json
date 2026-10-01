@@ -2,7 +2,7 @@
   "_id": "cfd307ba5169cfb7",
   "name": "Individualized Biometric Safety (IBS)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/individualized-biometric-safety-ibs.webp",
   "system": {
     "category": "security",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "4f5e0eaf37feb584",
   "name": "Ares Cascade Rifle",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/weapon/ares-cascade-rifle.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

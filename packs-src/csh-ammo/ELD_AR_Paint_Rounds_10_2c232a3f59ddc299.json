@@ -2,7 +2,7 @@
   "_id": "2c232a3f59ddc299",
   "name": "ELD-AR Paint Rounds (10)",
   "type": "ammo",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/ammo/eld-ar-paint-rounds-10.webp",
   "system": {
     "quantity": 10,
     "damageModifier": 0,

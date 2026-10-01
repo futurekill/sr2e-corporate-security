@@ -2,7 +2,7 @@
   "_id": "8d0b4c77f615f2e3",
   "name": "Entertainment System (TR-55E)",
   "type": "vehicle_mod",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/vehicle_mod/entertainment-system-tr-55e.webp",
   "system": {
     "modType": "general",
     "rating": 0,

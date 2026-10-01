@@ -2,7 +2,7 @@
   "_id": "89f5edb79a7f7c24",
   "name": "Extended Missile Parry",
   "type": "adept_power",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/adept_power/extended-missile-parry.webp",
   "system": {
     "level": 1,
     "attributeMods": {

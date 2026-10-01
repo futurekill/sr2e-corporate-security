@@ -2,7 +2,7 @@
   "_id": "b7a10c3fb9c7c05b",
   "name": "FAB-1 Coolant/Feeding Vat (500 m³)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/fab-1-coolant-feeding-vat-500-m.webp",
   "system": {
     "category": "general",
     "rating": 0,

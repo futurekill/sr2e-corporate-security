@@ -2,7 +2,7 @@
   "_id": "93c9d1ecc1710353",
   "name": "Low-Wattage Flashlight",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/low-wattage-flashlight.webp",
   "system": {
     "category": "security",
     "rating": 0,

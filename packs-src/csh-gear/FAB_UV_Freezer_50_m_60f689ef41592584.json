@@ -2,7 +2,7 @@
   "_id": "60f689ef41592584",
   "name": "FAB-UV Freezer (50 m³)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/gear/fab-uv-freezer-50-m.webp",
   "system": {
     "category": "general",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "fa6482f6f6c02431",
   "name": "Ares SuperSquirt II",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-corporate-security/assets/item_icons/weapon/ares-supersquirt-ii.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",
