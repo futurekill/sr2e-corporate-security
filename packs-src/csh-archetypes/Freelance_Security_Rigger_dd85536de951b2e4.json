@@ -2,7 +2,7 @@
   "_id": "dd85536de951b2e4",
   "name": "Freelance Security Rigger",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/freelance-security-rigger.webp",
   "system": {
     "biography": "<p>The oddball of the security business: hours jacked into a building's system, monitoring everything from drones to maglocks. Provides only deck, training and innate ability; the client supplies everything else.</p>\n<p><strong>When jacked in:</strong> Reaction 9 and Initiative 9 + 3D6 when rigged; Control Pool 9 when rigged (5 otherwise).</p>\n<p><strong>Dice Pools (printed):</strong> Combat 8, Control 5 (9 when rigged)</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Flare Protection and Thermographic; Datajack; Radio with Commlink II; Smartlink; Vehicle Control Rig: 2</p>\n<p><strong>Gear:</strong> Ares Viper Slivergun (with 2 spare clips and 90 flechette rounds); Camo Jacket; Dataline Tap: 6; DocWagon™ Contract (Platinum); Form-Fitted Body Armor: 3; Remote Control Deck with (4) Slave Ports, ECM (Security I)/ECCM (Security I) (Rigger Black Book p.127; disregard if that book is unavailable), Internal Rigger Decryption Module: 6, Internal Rigger Protocol Emulation Module: 6. Contacts: choose (2). Starting cash 1,130¥ + (3D6 × 1,000¥).</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.123.</em></p>",
     "race": "human",

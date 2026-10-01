@@ -2,7 +2,7 @@
   "_id": "c81839cab03b962f",
   "name": "Magical Security Specialist",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/magical-security-specialist.webp",
   "system": {
     "biography": "<p>Specialists in one area of magical security, most often wards, astral monitoring or conjuring; usually the most egocentric of all security personnel, and worth their weight in gold.</p>\n<p><strong>Augmented (applied):</strong> reaction 4 (5).</p>\n<p><strong>Skills:</strong> Firearms 3 (4) and Unarmed Combat 4 (5) with the Improved Ability powers.</p>\n<p><strong>Physical adept talents:</strong> Astral Perception; Improved Unarmed Combat (1); Improved Firearms (1); Improved Physical Senses (Flare Compensation, Low-Light Vision); Increased Reaction (1); Increased Reflexes (1)</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.112.</em></p>",
     "race": "human",

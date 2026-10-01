@@ -2,7 +2,7 @@
   "_id": "2101c5df9676b9a9",
   "name": "Security Commander",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-commander.webp",
   "system": {
     "biography": "<p>No office drone: she has served on the front lines, commands every security force on patrol like a general, and sees security as nothing short of war.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Radio with Commlink II; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.115.</em></p>",
     "race": "human",

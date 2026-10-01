@@ -2,7 +2,7 @@
   "_id": "89d5f3f30747dc7c",
   "name": "Executive Protection Mage",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/executive-protection-mage.webp",
   "system": {
     "biography": "<p>Not an ordinary mage: protection, detection and offensive spells juggled with equal ability, and always ready to give immediate magical medical aid.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Electronic Magnification 3, Flare Compensation and Low-Light</p>\n<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): Blast Barrier 3, Bullet Barrier 3, Detect Enemies (Extended) 3, Spell Barrier 3.</p>\n<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.109.</em></p>",
     "race": "human",

@@ -2,7 +2,7 @@
   "_id": "449b0dd13b15a54e",
   "name": "Security Officer",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-officer.webp",
   "system": {
     "biography": "<p>Responsible for the complete security of one location, answering only to the security commander; the next generation of commanders.</p>\n<p><strong>Cyberware:</strong> Radio; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.119.</em></p>",
     "race": "human",

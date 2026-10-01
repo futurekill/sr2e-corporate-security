@@ -2,7 +2,7 @@
   "_id": "95921ebd7ab69d87",
   "name": "Security Specialist: Animal Handler",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-specialist-animal-handler.webp",
   "system": {
     "biography": "<p>Trained to handle, control and command security animals, paranormal and mundane; some have worked with the rare cybered animal.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-4 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.120.</em></p>",
     "race": "human",

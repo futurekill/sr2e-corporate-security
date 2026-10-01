@@ -18,7 +18,10 @@ export function writePack(pack, docs, collection = "items") {
   for (const d of docs) {
     const file = `${dir}/${safe(d.name)}_${d._id}.json`;
     keep.add(file.split("/").pop());
-    d.img = keepImg(file, d.img);
+    // Keep art already wired in (set-art writes it into packs-src), but never let a
+    // placeholder icon win over art the generator found on disk.
+    const old = keepImg(file, d.img);
+    if (old.includes("/assets/") && !d.img.includes("/assets/")) d.img = old;
     d._key = `!${collection}!${d._id}`;
     writeFileSync(file, JSON.stringify(d, null, 2) + "\n");
   }

@@ -2,7 +2,7 @@
   "_id": "3d83961913e1b394",
   "name": "Executive Protection Rigger",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/executive-protection-rigger.webp",
   "system": {
     "biography": "<p>Coordinates all of the client's transportation: armored vehicles, drones, air and water transport. Never call one a chauffeur.</p>\n<p><strong>When jacked in:</strong> Reaction 9 and Initiative 9 + 3D6 when rigging.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light and Thermographic; Datajack (Lvl 4); Radio; Orientation System (with collection of softmaps); Vehicle Control Rig (2)</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.110.</em></p>",
     "race": "human",

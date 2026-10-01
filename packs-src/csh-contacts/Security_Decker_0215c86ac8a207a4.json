@@ -2,7 +2,7 @@
   "_id": "0215c86ac8a207a4",
   "name": "Security Decker",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-decker.webp",
   "system": {
     "biography": "<p>The meat behind the corporate IC: a shark patrolling her corporation's nodes, watching for break-ins and internal anomalies.</p>\n<p><strong>Cyberware:</strong> Datajack; Headware Memory 50 Mp; Retinal Modification: Display Link</p>\n<p><strong>Gear:</strong> Appropriate cyberdeck and programs (MPCP equal to twice Professional Rating + 1).</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.116.</em></p>",
     "race": "human",

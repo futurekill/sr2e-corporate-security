@@ -2,7 +2,7 @@
   "_id": "d014b2145550fba0",
   "name": "Security Mage",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-mage.webp",
   "system": {
     "biography": "<p>Sets up a site's magical protection and monitors the astral paths and magical defenses on duty; prefers to slow intruders down and capture them.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Smartlink</p>\n<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): Stun Bolt 3, Stunball 3, Wrecker 3.</p>\n<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.118.</em></p>",
     "race": "human",

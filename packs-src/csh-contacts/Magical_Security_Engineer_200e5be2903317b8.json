@@ -2,7 +2,7 @@
   "_id": "200e5be2903317b8",
   "name": "Magical Security Engineer",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/magical-security-engineer.webp",
   "system": {
     "biography": "<p>A mundane, and proud of it: magical theory, the physical sciences and trial and error, building technical aids such as fiber-optic viewing systems and defenses such as bacterial containment grids.</p>\n<p><strong>Cyberware:</strong> Datajack; Headware Memory 100 Mp; Retinal Modification: Display Link</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 1-2 (the sheet stores 1; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.113.</em></p>",
     "race": "human",

@@ -2,7 +2,7 @@
   "_id": "e19ba3e44d96d5a4",
   "name": "Investigator",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/investigator.webp",
   "system": {
     "biography": "<p>Trained in espionage, interview and interrogation, and data gathering; handles every security investigation involving personnel.</p>\n<p><strong>Cyberware:</strong> Datajack; Retinal Modification: Display Link; Headware Memory 100 Mp; Video Link with Internal Transmitter</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.111.</em></p>",
     "race": "human",

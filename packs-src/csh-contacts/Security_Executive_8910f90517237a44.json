@@ -2,7 +2,7 @@
   "_id": "8910f90517237a44",
   "name": "Security Executive",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-executive.webp",
   "system": {
     "biography": "<p>Head of the security division: organization, budgets and boards of directors, never the front lines. His head is the first to roll after a serious breach.</p>\n<p><strong>Cyberware:</strong> Datajack; Headware Memory 100 Mp; Retinal Modification: Display Link; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.116.</em></p>",
     "race": "human",

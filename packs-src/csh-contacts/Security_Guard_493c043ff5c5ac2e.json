@@ -2,7 +2,7 @@
   "_id": "493c043ff5c5ac2e",
   "name": "Security Guard",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-guard.webp",
   "system": {
     "biography": "<p>The most numerous and visible member of the physec team: checkpoints and foot patrols, entry-level and minimally trained.</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 1-2 (the sheet stores 1; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.117.</em></p>",
     "race": "human",

@@ -2,7 +2,7 @@
   "_id": "aa6f381614b5d416",
   "name": "Freelance Executive Protection Specialist (Troll)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/freelance-executive-protection-specialist-troll.webp",
   "system": {
     "biography": "<p>Not a low-life gang member or thug but a highly trained, dedicated professional who has tailored body and mind to one duty: keeping clients alive. Many grow closer to their clients than family, and some are worth more than the people they guard.</p>\n<p><strong>Augmented (applied):</strong> body 9 (10), reaction 2 (6).</p>\n<p><strong>Note:</strong> Natural thermographic vision, +1 Reach for armed/unarmed combat, and natural dermal armor (1). Choose an allergy if using that option (SR2 p.46).</p>\n<p><strong>Dice Pools (printed):</strong> Combat 3</p>\n<p><strong>Cyberware:</strong> Optical Vision Magnification: 3; Retinal Modification: Flare Compensation; Skillsofts: Biotech 3, and (4) Etiquette skillsofts at 3 points each; Skillwire: 3; Smartlink; Wired Reflexes: 2</p>\n<p><strong>Gear:</strong> Ares Predator II (with 4 spare clips); Concealed Holster; DocWagon™ Contract (Gold); Fineblade Long Blade; Form-Fitted Body Armor: 3; Medkit; Pocket Secretary; Portable Phone (Earplug with Booster); Tres Chic Clothing. Contacts: choose (2). Starting cash 1,255¥ + (3D6 × 1,000¥).</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.121.</em></p>",
     "race": "troll",

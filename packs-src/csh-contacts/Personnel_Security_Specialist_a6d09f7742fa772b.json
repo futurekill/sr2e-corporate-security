@@ -2,7 +2,7 @@
   "_id": "a6d09f7742fa772b",
   "name": "Personnel Security Specialist",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/personnel-security-specialist.webp",
   "system": {
     "biography": "<p>The backbone of corporate persec: background checks on candidates, employees and associates, monitoring work habits, and security clearances.</p>\n<p><strong>Cyberware:</strong> Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 1-3 (the sheet stores 1; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.114.</em></p>",
     "race": "human",

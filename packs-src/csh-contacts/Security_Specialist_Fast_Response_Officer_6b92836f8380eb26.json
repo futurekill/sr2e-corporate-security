@@ -2,7 +2,7 @@
   "_id": "6b92836f8380eb26",
   "name": "Security Specialist: Fast Response Officer",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-specialist-fast-response-officer.webp",
   "system": {
     "biography": "<p>Special Weapons and Tactics: deployed at a moment's notice to engage intruders, outfitted with state-of-the-art weapons, and they don't take prisoners.</p>\n<p><strong>Augmented (applied):</strong> reaction 5 (7).</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Dermal Armor: 1; Smartlink; Wired Reflexes: 1</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.120.</em></p>",
     "race": "human",

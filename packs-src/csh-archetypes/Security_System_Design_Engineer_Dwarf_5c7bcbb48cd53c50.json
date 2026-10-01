@@ -2,7 +2,7 @@
   "_id": "5c7bcbb48cd53c50",
   "name": "Security System Design Engineer (Dwarf)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-system-design-engineer-dwarf.webp",
   "system": {
     "biography": "<p>The master of the security puzzle: assembles, tests, rechecks, repairs and redesigns a system to keep it at peak efficiency, and so becomes a target for kidnapping, extortion, bribery and extraction.</p>\n<p><strong>Note:</strong> Natural thermographic vision, and +2 Body for disease resistance only. Choose an allergy if using that option.</p>\n<p><strong>Dice Pools (printed):</strong> Combat 6, Control 4</p>\n<p><strong>Cyberware:</strong> Datajack; Headware Memory: 50 Mp; Retinal Modification: Display Link; Vehicle Control Rig (1)</p>\n<p><strong>Gear:</strong> Computer Tool Kit; Dataline Tap (1); Electronics Tool Kit; External Rigger Decryption Module (1); External Rigger Protocol Emulation Module (1); Pocket Computer with 100 Mp Memory; Remote Control Deck with two Slave Ports; Wrist Phone with Flip-Up Screen. Contacts: choose (2). Starting cash 155¥ + (3D6 × 1,000¥).</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.124.</em></p>",
     "race": "dwarf",

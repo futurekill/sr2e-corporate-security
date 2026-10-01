@@ -2,7 +2,7 @@
   "_id": "445913ad6727302f",
   "name": "Security Rigger",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/security-rigger.webp",
   "system": {
     "biography": "<p>The newest member of the team: through CCSS and a system control rig she monitors and controls the whole technical security system, and can still drive a pretty mean drone.</p>\n<p><strong>When jacked in:</strong> Reaction 11 and Initiative 11 + 4D6 when rigging.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Datajack (4); Vehicle Control Rig (3)</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-4 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.119.</em></p>",
     "race": "human",

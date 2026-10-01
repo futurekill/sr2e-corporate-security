@@ -2,7 +2,7 @@
   "_id": "02f80a8dce85e0b5",
   "name": "Executive Protection Decker",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/executive-protection-decker.webp",
   "system": {
     "biography": "<p>Rides the Matrix for the client: reservations, contacts, dealings and itineraries, black information, misinformation planted, and the police, rescue and air-traffic frequencies watched.</p>\n<p><strong>Augmented (applied):</strong> intelligence 6 (7).</p>\n<p><strong>When jacked in:</strong> Reaction 8 and Initiative 8 + 3D6 when decking.</p>\n<p><strong>Cyberware:</strong> Cranial Cyberdeck (MPCP 8, Persona 8, Hardening 4, Memory: Active 100 Mp, Storage 500 Mp, Input/Output 80, Response Increase 2); Datajack 4; Encephalon 2; Headware Memory 100 Mp; I/O SPU 2</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.108.</em></p>",
     "race": "human",

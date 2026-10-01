@@ -2,7 +2,7 @@
   "_id": "98485e581bdcae5c",
   "name": "Executive Protection Specialist",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/executive-protection-specialist.webp",
   "system": {
     "biography": "<p>The client's personal shield and the basic unit of every execsec team: trained to protect the client's life even at the cost of their own, and far more than a muscleman.</p>\n<p><strong>Augmented (applied):</strong> body 6 (9), reaction 5 (9).</p>\n<p><strong>Bioware:</strong> Damage Compensator (3)</p>\n<p><strong>Cyberware:</strong> Cybereyes with Electronic Magnification 3, Flare Compensation, Low-Light, Rangefinder and Thermographic; Dermal Plating 3; Smartlink II; Wired Reflexes: 2</p>\n<p><strong>Body Index:</strong> 0.6</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.110.</em></p>",
     "race": "human",

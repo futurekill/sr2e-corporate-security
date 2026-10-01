@@ -2,7 +2,7 @@
   "_id": "e4478647d3d53177",
   "name": "Freelance Magical Security Consultant",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/freelance-magical-security-consultant.webp",
   "system": {
     "biography": "<p>A one-time astral intruder now working for the corps: devises ingenious traps that stop or detain intruders, designs and implements magical security systems, and bills for everything.</p>\n<p><strong>Dice Pools (printed):</strong> Combat 8, Magic 6</p>\n<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): Stun Bolt 3, Stunball 3, Influence 2.</p>\n<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>\n<p><strong>Gear:</strong> Fetishes: (1) Combat, (1) Detection, (2) Illusion, (1) Manipulation; Narcoject Pistol; Pocket Secretary; Secure Long Coat. Cyberware: none. Contacts: choose (2). Starting cash 3D6 × 1,000¥.</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.122.</em></p>",
     "race": "human",

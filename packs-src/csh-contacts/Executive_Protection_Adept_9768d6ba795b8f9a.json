@@ -2,7 +2,7 @@
   "_id": "9768d6ba795b8f9a",
   "name": "Executive Protection Adept",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-corporate-security/assets/contact_portraits/executive-protection-adept.webp",
   "system": {
     "biography": "<p>The execsec team's advance man: superior perception and stealth to watch the mundane world and astral space at once, quick to spot trouble and quick to stop it.</p>\n<p><strong>Augmented (applied):</strong> reaction 4 (5).</p>\n<p><strong>Physical adept talents:</strong> Astral Perception; Enhanced Perception: 2; Improved Physical Senses (Flare Compensation, Low-Light Vision, Vision Magnification 2); Increased Reaction: 1; Increased Reflexes: 1</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.107.</em></p>",
     "race": "human",
