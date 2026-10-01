@@ -1,0 +1,43 @@
+{
+  "_id": "3eb9f461089b62b8",
+  "name": "Ares Sentinel Weapons Pod III",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 5000,
+    "availability": "6/2 weeks",
+    "streetIndex": 2,
+    "notes": "Modular weapon unit for Ares Sentinel and Guardian drones, which recalibrate their inertial compensators and targeting for each weapon automatically. Installed: HK227-S (150) and Narcoject Rifle (20). Removing and installing a pod are each a Complex Action (two to change one). Only Ares Sentinel and Guardian drones accept pods without major hardware and firmware work. Add the weapons themselves to the drone from the weapon compendia. Legality is not printed in the catalog. Corporate Security Handbook p.92."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3eb9f461089b62b8"
+}

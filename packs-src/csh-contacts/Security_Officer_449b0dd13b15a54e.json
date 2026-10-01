@@ -1,0 +1,329 @@
+{
+  "_id": "449b0dd13b15a54e",
+  "name": "Security Officer",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>Responsible for the complete security of one location, answering only to the security commander; the next generation of commanders.</p>\n<p><strong>Cyberware:</strong> Radio; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.119.</em></p>",
+    "race": "human",
+    "professionalRating": 3,
+    "body": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "essence": {
+      "value": 4.75,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 0
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 1,
+      "mod": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "da158b245b9a9a06",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "33c322266e9fcca0",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a7f01b9b6c7918ff",
+      "name": "Interrogation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3c8b04b28bd67c3c",
+      "name": "Leadership",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1ba4a4f400163619",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "74d8541c53eb8222",
+      "name": "Security Systems",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "special",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Security Officer",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!449b0dd13b15a54e"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "f492fc71f77debb2",
+  "name": "Ares ELD-AR Assault Rifle",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageType": "stun",
+    "reach": 0,
+    "recoilComp": 0,
+    "smartgunCompatible": false,
+    "strengthMin": 0,
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "damageCode": "4L",
+    "concealability": 4,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": true,
+      "fa": false
+    },
+    "ammo": {
+      "current": 50,
+      "max": 50,
+      "type": "regular"
+    },
+    "ranges": {
+      "short": 25,
+      "medium": 100,
+      "long": 250,
+      "extreme": 500
+    },
+    "weight": 4.5,
+    "cost": 950,
+    "availability": "9/7 days",
+    "streetIndex": 2,
+    "notes": "Encapsulated Liquid Delivery assault rifle (50-round clip). Standard ammunition is gel-coated paint or marking rounds, damage 4L Stun (as set here); special rounds can carry other contents and do damage by their contents. Compressed-gas, negligible recoil: treat as having a sound suppressor. The stock's air canister refills for 50¥. May be drone-mounted; accepts top- and underbarrel accessories, not barrel. Legality is not printed in the catalog. Corporate Security Handbook p.69."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f492fc71f77debb2"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "fa6482f6f6c02431",
+  "name": "Ares SuperSquirt II",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageType": "physical",
+    "reach": 0,
+    "recoilComp": 0,
+    "smartgunCompatible": false,
+    "strengthMin": 0,
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "damageCode": "Special",
+    "concealability": 7,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 20,
+      "max": 20,
+      "type": "cartridge"
+    },
+    "ranges": {
+      "short": 5,
+      "medium": 15,
+      "long": 30,
+      "extreme": 50
+    },
+    "weight": 2,
+    "cost": 800,
+    "availability": "9/14 days",
+    "streetIndex": 1.5,
+    "notes": "Light pistol. The improved Ares Squirt: the DMSO gel reservoir is now a removable clip, beside a second, parallel clip holding the chemical, and it carries twice the original's shots (20). Silent and recoilless compressed air; a hit delivers the compound through the skin, so damage is the compound's. Extra reservoir clips 10¥; the grip's CO₂ canister recharges for 50¥. May be drone-mounted; accepts no top-, barrel- or underbarrel accessories. DMSO lets a compound act on contact (Shadowtech p.89). Legality is not printed in the catalog. Corporate Security Handbook p.67."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fa6482f6f6c02431"
+}

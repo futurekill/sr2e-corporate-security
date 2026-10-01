@@ -1,0 +1,289 @@
+{
+  "_id": "8910f90517237a44",
+  "name": "Security Executive",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>Head of the security division: organization, budgets and boards of directors, never the front lines. His head is the first to roll after a serious breach.</p>\n<p><strong>Cyberware:</strong> Datajack; Headware Memory 100 Mp; Retinal Modification: Display Link; Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.116.</em></p>",
+    "race": "human",
+    "professionalRating": 2,
+    "body": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "strength": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 4.2,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 0
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 1,
+      "mod": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "8a3b9b43dae7d816",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "961f922e917443c8",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 1,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1d924421dffd3718",
+      "name": "Interrogation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a1b0af7470a7b6ec",
+      "name": "Negotiation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ca555c21b32c1c87",
+      "name": "Security Systems",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "special",
+        "rating": 1,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Security Executive",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!8910f90517237a44"
+}

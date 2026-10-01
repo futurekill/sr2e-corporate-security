@@ -1,0 +1,41 @@
+{
+  "_id": "7e01e6e5ef540857",
+  "name": "Full Communications Suite (TR-55E)",
+  "type": "vehicle_mod",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "modType": "general",
+    "rating": 0,
+    "cost": 5000,
+    "designPoints": 0,
+    "dpPerLevel": 0,
+    "dpTable": [],
+    "cfConsumed": 2,
+    "cfPerLevel": 0,
+    "cfTable": [],
+    "loadReduction": 0,
+    "loadPerLevel": 0,
+    "loadTable": [],
+    "installed": false,
+    "notes": "TR-55E Executive option: 5,000¥, 2 CF. Corporate Security Handbook p.87."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7e01e6e5ef540857"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "e25b418e7b057735",
+  "name": "ELD-AR Gelcoat Filling Kit",
+  "type": "ammo",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "quantity": 1,
+    "damageModifier": 0,
+    "armorModifier": 0,
+    "damageType": "",
+    "armorCalc": "standard",
+    "ammoType": "regular",
+    "cost": 300,
+    "streetIndex": 2,
+    "notes": "Kit for making ELD-AR gelcoat rounds with special fillings, 300¥. Such rounds may cause damage based on their contents (the GM's call by filling). Corporate Security Handbook p.69."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e25b418e7b057735"
+}

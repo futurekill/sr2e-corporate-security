@@ -1,0 +1,43 @@
+{
+  "_id": "7bf3e9d24bb081d2",
+  "name": "CerebroTech Computerized Release Control",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 5000,
+    "availability": "GM's discretion",
+    "streetIndex": 0,
+    "notes": "<p>The control unit of a Bacterial Containment Grid. When an astral intruder is detected inside the protected area, the on-site security magician activates it and it releases FAB-1 into the double-layered exterior walls, doors and windows, trapping the intruder inside. Ares Security International and BacteriTech™ design and build the grid; construction is by estimate. Not normally available on the street (Availability at the GM's discretion).</p><p><strong>In Foundry:</strong> set the protected area's walls, doors and windows to Astral barrier \"Fat bacteria\" and draw a Fat bacteria zone over it once the grid fires (CSH p.103).</p><p>Corporate Security Handbook p.84.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7bf3e9d24bb081d2"
+}

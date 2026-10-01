@@ -1,0 +1,61 @@
+{
+  "_id": "972b30dd4703e0f4",
+  "name": "BacteriTech FAB-NG Netgun (Large)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageType": "physical",
+    "reach": 0,
+    "recoilComp": 0,
+    "smartgunCompatible": false,
+    "strengthMin": 0,
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "damageCode": "Special",
+    "concealability": 2,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 4,
+      "max": 4,
+      "type": "net"
+    },
+    "ranges": {
+      "short": 5,
+      "medium": 15,
+      "long": 30,
+      "extreme": 50
+    },
+    "weight": 5,
+    "cost": 2500,
+    "availability": "8/14 days",
+    "streetIndex": 5,
+    "notes": "<p>A Williams Technologies netgun modified by BacteriTech to catch ASTRAL targets: its net of hollow polymer tubes is filled with FAB-1 fat bacteria. For orks and trolls; fires both net sizes. The first trigger primes a net (forcing FAB-1 in from the holding vat); a primed net stays active 6–8 hours; each net fires once. Needs a self-contained feeding canister (1,000¥ per 4 standard nets, 1,500¥ per 4 large). Ranges are not printed: the light-pistol bands of the base Williams netgun are used. May be drone-mounted; top- and underbarrel accessories only. Legality is not printed in the catalog. Corporate Security Handbook p.70.</p>\n<p><strong>Resolving a hit (by hand, p.103).</strong> Keep the attack's successes and <em>ignore the damage card</em> — a net does no damage.</p>\n<ol><li>The victim makes an <strong>Astral Reaction Test</strong> against TN 5 (standard net) or 8 (large net); a standard net used against a large target drops to TN 3.</li>\n<li>If it fails, the victim is entangled: immobile and unable to take any action.</li>\n<li>To escape it rolls once per Combat Turn — Astral Reaction dice plus all its available Astral Pool dice, −1 for every turn already entangled — and must get <strong>more than twice</strong> the attacker's successes.</li>\n<li>If twice the attacker's successes <strong>exceeds</strong> the victim's total dice, no escape is possible (and if they're equal, escape needs every die plus one more — impossible in practice).</li></ol>\n<p>Foundry's \"Restrained\" status works as a reminder, but it sits on the actor (a body and its astral form both show it) and doesn't stop movement: note which token is netted and hold it still by hand.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!972b30dd4703e0f4"
+}

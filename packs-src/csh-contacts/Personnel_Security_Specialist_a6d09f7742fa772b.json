@@ -1,0 +1,409 @@
+{
+  "_id": "a6d09f7742fa772b",
+  "name": "Personnel Security Specialist",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>The backbone of corporate persec: background checks on candidates, employees and associates, monitoring work habits, and security clearances.</p>\n<p><strong>Cyberware:</strong> Smartlink</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 1-3 (the sheet stores 1; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.114.</em></p>",
+    "race": "human",
+    "professionalRating": 1,
+    "body": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "essence": {
+      "value": 5.5,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 0
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 1,
+      "mod": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "c3afad884e304eed",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "715163ac091ef3a2",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7e894a83f04d353c",
+      "name": "Interrogation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2992b03285e28d87",
+      "name": "Negotiation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 1,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d10f84100ef11ca3",
+      "name": "Psychology",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 1,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0fe643b8af22cc94",
+      "name": "Sociology",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 1,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "76afa92282e2b1bb",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d44765ecebe8347b",
+      "name": "Security Systems",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "special",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Personnel Security Specialist",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!a6d09f7742fa772b"
+}

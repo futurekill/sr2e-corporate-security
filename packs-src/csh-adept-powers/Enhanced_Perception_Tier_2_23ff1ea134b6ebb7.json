@@ -1,0 +1,38 @@
+{
+  "_id": "23ff1ea134b6ebb7",
+  "name": "Enhanced Perception (Tier 2)",
+  "type": "adept_power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "level": 1,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "reaction": 0
+    },
+    "pointCost": 0.5,
+    "maxLevel": 9,
+    "description": "<p>Additional dice for Perception Tests: +1 per level. This tier covers a Perception bonus that keeps the adept's total at or below the racial maximum Intelligence, at 0.5 point per +1.</p>",
+    "notes": "Enhanced Perception is priced in three bands (p.104): .25 per +1 up to ½ the racial maximum Intelligence, .5 per +1 up to the racial maximum, 1 per +1 up to 1.5 × the racial maximum. The system prices a power as cost × level, so each band is its own item — buy the levels that fall in each band; the racial limit is checked by hand. Corporate Security Handbook p.104."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!23ff1ea134b6ebb7"
+}

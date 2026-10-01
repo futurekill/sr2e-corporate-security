@@ -1,0 +1,335 @@
+{
+  "_id": "9768d6ba795b8f9a",
+  "name": "Executive Protection Adept",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>The execsec team's advance man: superior perception and stealth to watch the mundane world and astral space at once, quick to spot trouble and quick to stop it.</p>\n<p><strong>Augmented (applied):</strong> reaction 4 (5).</p>\n<p><strong>Physical adept talents:</strong> Astral Perception; Enhanced Perception: 2; Improved Physical Senses (Flare Compensation, Low-Light Vision, Vision Magnification 2); Increased Reaction: 1; Increased Reflexes: 1</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 3-4 (the sheet stores 3; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.107.</em></p>",
+    "race": "human",
+    "professionalRating": 3,
+    "body": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "strength": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 6,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 1
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 2,
+      "mod": 0
+    },
+    "magic": {
+      "value": 6,
+      "max": 6,
+      "type": "physical_adept",
+      "tradition": "none"
+    }
+  },
+  "items": [
+    {
+      "_id": "4292e338f798c925",
+      "name": "Biotech",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "550a6361a48a3538",
+      "name": "Conjuring",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "910bb425ae9c2dd6",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "f2bfdd625fa2d48e",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3594b4edfb0b2951",
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d4603896f425e876",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Executive Protection Adept",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!9768d6ba795b8f9a"
+}

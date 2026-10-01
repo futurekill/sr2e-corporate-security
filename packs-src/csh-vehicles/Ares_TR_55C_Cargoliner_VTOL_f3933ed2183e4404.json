@@ -1,0 +1,57 @@
+{
+  "_id": "f3933ed2183e4404",
+  "name": "Ares TR-55C Cargoliner VTOL",
+  "type": "vehicle",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "skill": "",
+    "acceleration": 0,
+    "sensor": 0,
+    "autonav": 0,
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "vehicleType": "vectored_thrust",
+    "handling": 5,
+    "speed": 170,
+    "body": 4,
+    "armor": 9,
+    "signature": 3,
+    "pilot": 3,
+    "seating": "Twin bucket seats + 12 folding bench",
+    "cargo": 60,
+    "cost": 550000,
+    "availability": "55/55 days",
+    "notes": "<p>Armored, extra-rugged TR-55 for paramilitary and military forces, search and rescue (it hovers stably) and hard-to-reach cargo; a ventral hatch and a winch lifting up to one metric ton. Speed 170/350 (cruise/maximum; the sheet holds the cruise figure). Acceleration is not printed. Access 1 + 1 standard. Economy 1.0 km per liter (VTOL: 0.5 km/liter). Fuel IC/1,600 liters. Storage 10 CF storage + 50 CF cargo (75 CF if the seats are folded/removed). Landing/Takeoff VTOL/STOL. Street Index 2. Divide the Availability target number by 3 (round up) for the mercenary contact known as the Dealer (Fields of Fire p.81). Options: Rigger Control System 12,000¥ (6 CF), Rear Access Ramp 25,000¥ (15 CF; access up to 4, capacity drops to 8 CF storage + 35 CF cargo).</p><p><em>Corporate Security Handbook p.88.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ares TR-55C Cargoliner VTOL",
+    "actorLink": false,
+    "disposition": 0,
+    "texture": {
+      "src": "icons/svg/car.svg"
+    },
+    "lockRotation": false
+  },
+  "_key": "!actors!f3933ed2183e4404"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "ef0b0471cf88b00d",
+  "name": "Ares Sentinel Weapons Pod I",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 3000,
+    "availability": "5/1 week",
+    "streetIndex": 2,
+    "notes": "Modular weapon unit for Ares Sentinel and Guardian drones, which recalibrate their inertial compensators and targeting for each weapon automatically. Installed: Ares Squirt II (40 shots) and Defiance Super Shock (20). Removing and installing a pod are each a Complex Action (two to change one). Only Ares Sentinel and Guardian drones accept pods without major hardware and firmware work. Add the weapons themselves to the drone from the weapon compendia. Legality is not printed in the catalog. Corporate Security Handbook p.92."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ef0b0471cf88b00d"
+}

@@ -1,0 +1,492 @@
+{
+  "_id": "e4478647d3d53177",
+  "name": "Freelance Magical Security Consultant",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>A one-time astral intruder now working for the corps: devises ingenious traps that stop or detain intruders, designs and implements magical security systems, and bills for everything.</p>\n<p><strong>Dice Pools (printed):</strong> Combat 8, Magic 6</p>\n<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): Stun Bolt 3, Stunball 3, Influence 2.</p>\n<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>\n<p><strong>Gear:</strong> Fetishes: (1) Combat, (1) Detection, (2) Illusion, (1) Manipulation; Narcoject Pistol; Pocket Secretary; Secure Long Coat. Cyberware: none. Contacts: choose (2). Starting cash 3D6 × 1,000¥.</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.122.</em></p>",
+    "race": "human",
+    "professionalRating": 0,
+    "body": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "strength": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 6,
+      "mod": 0,
+      "value": 6,
+      "racial": 0
+    },
+    "essence": {
+      "value": 6,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 0
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 1,
+      "mod": 0
+    },
+    "magic": {
+      "value": 6,
+      "max": 6,
+      "type": "full_magician",
+      "tradition": "hermetic"
+    },
+    "dicePools": {
+      "magic": {
+        "value": 6,
+        "max": 6
+      }
+    }
+  },
+  "items": [
+    {
+      "_id": "30f575858c5e4b9e",
+      "name": "Conjuring",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2e275ba4b3201f7f",
+      "name": "Electronics (Security Systems)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0e3e0457fb79a3e5",
+      "name": "Electronics (Security Systems) (B/R)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "build_repair",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fb3c315e1ed9773e",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e12afc34d1ea6a08",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c4a295bc6555edca",
+      "name": "Magical Theory",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1957101616aadbfc",
+      "name": "Sorcery",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d27b3fba340814f2",
+      "name": "Analyze Truth",
+      "type": "spell",
+      "system": {
+        "category": "detection",
+        "subcategory": "",
+        "type": "mana",
+        "range": "limited",
+        "duration": "sustained",
+        "force": 2,
+        "drainCode": "(F / 2)S",
+        "target": "Willpower (R)",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "A hypersense spell. The magician can tell whether a target's statement is the truth or not. The target makes a Spell Resistance Test using his Willpower Rating against the force of the spell to reduce the spellcaster's successes. The caster needs at least 1 success to determine validity. The spell does not work on written materials. The magician must hear a statement to know if it is true or not."
+      },
+      "img": "systems/sr2e/assets/item_icons/spells/analyze-truth.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "f353daac2ab9403c",
+      "name": "Mind Probe",
+      "type": "spell",
+      "system": {
+        "category": "detection",
+        "subcategory": "",
+        "type": "mana",
+        "range": "touch",
+        "duration": "sustained",
+        "force": 2,
+        "drainCode": "((F / 2) + 2)D",
+        "target": "4 (R)",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "The magician can telepathically probe a subject's mind. The target makes a Resistance Test using his Willpower Rating against a target number equal to the Force of the spell. If the target fails to offset all the successes, the number remaining determines the extent to which the magician can probe the target's mind. One success means that the magician can read surface thoughts. The magician knows what the target is thinking about at that instant, but cannot inﬂuence the thoughts or draw other information from the target. Two successes allow the magician to probe for thoughts. The magician can find out anything the subject knows consciously. He can ask any one question, and the target must answer with the truth as he knows it. Three or more successes allow the magician to enter the target's subconscious, and he can obtain the answer to two questions. Additional castings of this spell against the same target within a number of hours equal to the target's Willpower are at a +2 per attempt."
+      },
+      "img": "systems/sr2e/assets/item_icons/spells/mind-probe.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "2953604900ad6f32",
+      "name": "Chaos",
+      "type": "spell",
+      "system": {
+        "category": "illusion",
+        "subcategory": "",
+        "type": "physical",
+        "range": "los",
+        "duration": "sustained",
+        "force": 3,
+        "drainCode": "((F / 2) + 2)M",
+        "target": "Intelligence (R)",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "A target who fails to resist a chaos spell is subject to massive distractions. The spell consumes all senses in a cloud of blinding sights, fierce odors, and tickling sensations. A major distraction (+ 1 to all target numbers) is suffered for every extra success the spell has after being reduced by the Spell Resistance Test. This spell can also deceive technological sensing devices in addition to the target's own senses."
+      },
+      "img": "systems/sr2e/assets/item_icons/spells/chaos.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Freelance Magical Security Consultant",
+    "actorLink": false,
+    "disposition": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!e4478647d3d53177"
+}

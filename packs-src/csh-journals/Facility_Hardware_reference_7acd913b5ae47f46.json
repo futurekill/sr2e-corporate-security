@@ -1,0 +1,60 @@
+{
+  "_id": "7acd913b5ae47f46",
+  "name": "Facility Hardware (reference)",
+  "pages": [
+    {
+      "_id": "aa0c747436c08190",
+      "name": "Not modelled as items",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Some of the catalog is facility-scale hardware that never sits on a character sheet, so this module describes it rather than shipping items (CSH p.24–33, 74–93):</p>\n<ul><li><strong>Closed-circuit simsense (CCSS):</strong> a security control rig turns the site's alarms, maglocks, cameras, detectors, gun emplacements and drones into the security rigger's \"body\"; simlinks let secondary riggers ride along. Its weak points are its sensors, its cables and the one person running it.</li>\n<li><strong>The integrated control center, fiber-optic observation network, decryption and emulation modules:</strong> the systems a rigger or magician works <em>through</em>; their game effects are in the Rigger combat and Fiber-optic spellcasting pages.</li>\n<li><strong>Ares Sentinel drone storage system (p.93):</strong> 100,000¥ for 3 Sentinel P, 2 Guardian and 10 weapons pods, with one automated rearming system (one pod change per Combat Turn); additional storage +5,000¥ per Sentinel P, +7,500¥ per Guardian, +1,500¥ per pod; backup power +5,000¥; rearming systems +10,000¥ each (one per three storage upgrades); weatherproofing +10,000¥. Not normally on the street.</li></ul>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!7acd913b5ae47f46"
+}

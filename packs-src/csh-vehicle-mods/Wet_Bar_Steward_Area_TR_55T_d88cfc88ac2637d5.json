@@ -1,0 +1,41 @@
+{
+  "_id": "d88cfc88ac2637d5",
+  "name": "Wet Bar/Steward Area (TR-55T)",
+  "type": "vehicle_mod",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "modType": "general",
+    "rating": 0,
+    "cost": 2500,
+    "designPoints": 0,
+    "dpPerLevel": 0,
+    "dpTable": [],
+    "cfConsumed": 5,
+    "cfPerLevel": 0,
+    "cfTable": [],
+    "loadReduction": 0,
+    "loadPerLevel": 0,
+    "loadTable": [],
+    "installed": false,
+    "notes": "TR-55T Traveler option: 2,500¥, 5 CF. Corporate Security Handbook p.86."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d88cfc88ac2637d5"
+}

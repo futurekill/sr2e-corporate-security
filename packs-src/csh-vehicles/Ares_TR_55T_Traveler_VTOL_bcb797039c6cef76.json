@@ -1,0 +1,57 @@
+{
+  "_id": "bcb797039c6cef76",
+  "name": "Ares TR-55T Traveler VTOL",
+  "type": "vehicle",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "skill": "",
+    "acceleration": 0,
+    "sensor": 0,
+    "autonav": 0,
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "vehicleType": "vectored_thrust",
+    "handling": 5,
+    "speed": 170,
+    "body": 3,
+    "armor": 0,
+    "signature": 3,
+    "pilot": 3,
+    "seating": "Twin bucket seats + 20 bucket seats",
+    "cargo": 30,
+    "cost": 500000,
+    "availability": "50/25 days",
+    "notes": "<p>Tilt-wing VTOL, the most popular TR-55: smooth, even lift and descent for short-distance commuters, five more passengers than its rivals. Speed 170/350 (cruise/maximum; the sheet holds the cruise figure). Acceleration is not printed. Access 1 + 1 standard. Economy 1.2 km per liter (VTOL: 0.75 km/liter). Fuel IC/1,600 liters. Storage 10 CF storage + 20 CF cargo. Landing/Takeoff VTOL/STOL. Street Index 2. Divide the Availability target number by 3 (round up) for the mercenary contact known as the Dealer (Fields of Fire p.81). Options (CSH Vehicle Options pack): Rigger Control System 10,000¥ (6 CF), Wet Bar/Steward Area 2,500¥ (5 CF).</p><p><em>Corporate Security Handbook p.86.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ares TR-55T Traveler VTOL",
+    "actorLink": false,
+    "disposition": 0,
+    "texture": {
+      "src": "icons/svg/car.svg"
+    },
+    "lockRotation": false
+  },
+  "_key": "!actors!bcb797039c6cef76"
+}

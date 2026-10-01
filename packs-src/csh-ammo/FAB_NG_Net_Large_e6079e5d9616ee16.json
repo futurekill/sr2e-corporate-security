@@ -1,0 +1,36 @@
+{
+  "_id": "e6079e5d9616ee16",
+  "name": "FAB-NG Net (Large)",
+  "type": "ammo",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "quantity": 1,
+    "damageModifier": 0,
+    "armorModifier": 0,
+    "damageType": "",
+    "armorCalc": "standard",
+    "ammoType": "net",
+    "cost": 500,
+    "streetIndex": 5,
+    "notes": "One additional large FAB-1 net shot; only the large FAB-NG fires it. Concealability 5, Weight 0.75, Availability 8/14 days. Astral Reaction TN 8 to avoid. Corporate Security Handbook p.70."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e6079e5d9616ee16"
+}

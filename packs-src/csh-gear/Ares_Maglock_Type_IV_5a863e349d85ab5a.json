@@ -1,0 +1,44 @@
+{
+  "_id": "5a863e349d85ab5a",
+  "name": "Ares Maglock (Type IV)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 10,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "costPerRating": 250,
+    "cost": 2500,
+    "availability": "Rating/4 days",
+    "streetIndex": 1.5,
+    "notes": "Rating 10; 250¥ × Rating. Top-level security. Above Type I they carry a lithium backup battery good for a year (Type I: five years). A PANICBUTTON™ hookup is available for all but Type I. Bypass rules: core SR2 and CSH p.100. Legality is not printed in the catalog. Corporate Security Handbook p.73."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5a863e349d85ab5a"
+}

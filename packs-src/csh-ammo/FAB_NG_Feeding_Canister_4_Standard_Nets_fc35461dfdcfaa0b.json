@@ -1,0 +1,36 @@
+{
+  "_id": "fc35461dfdcfaa0b",
+  "name": "FAB-NG Feeding Canister (4 Standard Nets)",
+  "type": "ammo",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "quantity": 1,
+    "damageModifier": 0,
+    "armorModifier": 0,
+    "damageType": "",
+    "armorCalc": "standard",
+    "ammoType": "net",
+    "cost": 1000,
+    "streetIndex": 4,
+    "notes": "The self-contained FAB-1 feeding canister the netgun needs: enough for 4 standard nets. Corporate Security Handbook p.70."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fc35461dfdcfaa0b"
+}

@@ -1,0 +1,276 @@
+{
+  "_id": "56052481ec172565",
+  "name": "Magical Security",
+  "pages": [
+    {
+      "_id": "df51353af0eb72ed",
+      "name": "Astral patrols",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Elementals, nature spirits and watchers can patrol an area, usually about 10,000 m² each. Detecting an intruder starts at a base TN of 2, modified by the table (CSH p.103). A spirit that spots someone engages or alerts, as instructed; one that can manifest may set off alarms or containment systems.</p>\n<table><thead><tr><th>Situation</th><th>Modifier</th></tr></thead><tbody><tr><td>Area under 2,000 m²</td><td>+0</td></tr><tr><td>2,001–5,000 m²</td><td>+1</td></tr><tr><td>5,001–10,000 m²</td><td>+2</td></tr><tr><td>10,001–20,000 m²</td><td>+4</td></tr><tr><td>20,001–40,000 m²</td><td>+6</td></tr><tr><td>40,001–80,000 m²</td><td>+8</td></tr><tr><td>Open terrain (flat countryside)</td><td>−4</td></tr><tr><td>Normal terrain</td><td>−2</td></tr><tr><td>Restricted (light woods, suburbs)</td><td>+0</td></tr><tr><td>Tight (urban mazes, dense woods)</td><td>+2</td></tr><tr><td>Complex (building interiors)</td><td>+4</td></tr><tr><td>Background count</td><td>+ Level</td></tr><tr><td>Intruder has active magical items or spells</td><td>−1 per 2 Rating points</td></tr><tr><td>Intruder present astrally</td><td>−1 per 2 Magic points (unless masked)</td></tr><tr><td>Intruders include or are spirits</td><td>−1 per 2 Rating points</td></tr><tr><td>Nature spirit with the Search power</td><td>−2</td></tr><tr><td>Each additional spirit patrolling the area</td><td>−1</td></tr></tbody></table>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "5505ec47ed15da94",
+      "name": "Living walls and fat bacteria",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>An astral form can't pass through living matter: ivy and moss on a wall, engineered fungus in it, or a space flooded with FAB-1 fat bacteria stop it. It can still go through a gap the size of its physical body — an open window or door — but not under a door (CSH p.37–40). Fat bacteria also hold astral travel to normal speed (Astral Quickness × 4) and put +4 on astral perception made in them; spellcasting and astral combat are unaffected (p.103). The book's own advice: use FAB only if everyone at the table understands it (p.104).</p>\n<p><strong>In Foundry (sr2e 0.102.0+):</strong></p>\n<ul><li>A token on the astral plane (a projecting mage's astral form, an unmanifested spirit) walks through ordinary walls. For living walls and FAB-filled walls, open the wall's settings and set <em>Astral barrier</em> to \"Living wall\" or \"Fat bacteria\": they stop everyone, and their doors still open and close. A ward or circle is drawn as a wall with movement, sight and sound set to None and Astral barrier \"Ward / circle\".</li>\n<li>For a flooded room, draw a Region over it and add a <em>Fat bacteria zone</em> behaviour (FAB-1, or FAB-UV). With the movement limit on, astral forms in it are held to normal speed; the token-HUD <em>Assense</em> roll adds the +4.</li>\n<li>A Bacterial Containment Grid: set the protected area's walls, doors and windows to \"Fat bacteria\" once the grid fires.</li></ul>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "bf634cfdb8167d2e",
+      "name": "FAB-UV searches",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>With FAB-UV in an area and the UV lights on, an astral intruder casts a visible shadow. Spotting it is a Perception Test against TN 6, +1 per 50 m² searched, −1 for every two searchers; one success finds it. Attacks against a spotted intruder are at +4, −1 per success beyond the first (five successes cancel it; more give no bonus). An intruder who knows about the search may roll Stealth against the searchers' Intelligence; each success cancels one of theirs (CSH p.103).</p>\n<p><strong>In Foundry:</strong> turn on the zone's <em>UV lights on</em>, select the searching tokens, and press <em>Search for astral intruders</em> in the behaviour's settings. The rolls are whispered to the GM; a spotted intruder becomes visible to everyone while it stays in the lit zone, and the card gives the attack penalty.</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "2407ec0a8f68c870",
+      "name": "The FAB-NG netgun",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A hit forces the astral victim to make an Astral Reaction Test against TN 5 (standard net) or 8 (large net); a standard net used against a large target is TN 3. If it fails, it is entangled: immobile and unable to act. It may try to escape once per Combat Turn — Astral Reaction dice plus all its available Astral Pool dice, −1 for each turn already netted — and needs <em>more than twice</em> the attacker's successes. If twice the attacker's successes exceeds all the dice it could roll, it can't escape (CSH p.103). (When the two are exactly equal the text still allows an attempt, but it would need every die to succeed and then one more — impossible in practice.)</p>\n<p><strong>In Foundry:</strong> fire the netgun normally and keep the attack's successes; ignore the damage card the system posts (damage is \"Special\"). Roll the victim's Astral Reaction yourself. The \"Restrained\" status is a reminder only — it sits on the actor (a body and its astral form both show it) and doesn't stop movement, so hold the netted token still by hand and clear the status when it escapes or the projection ends.</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "d5195314a8a30e44",
+      "name": "Fiber-optic spellcasting",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A magician can see — and cast spells — through a fiber-optic image link such as the Ares observation network, but every 500 m (or part) between caster and target adds +1 to the Spellcasting TN, to a maximum of 2,500 m, and each 500 m adds +2 to the Drain TN. Spirits can't be conjured through such a link. Switching cameras is a Simple Action by hand, or Free with a cybernetic hookup (CSH p.102–103).</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "8faa987f63163f01",
+      "name": "The Goose totem",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A shaman's totem from this book (CSH p.104), added to the totem list when the module is on. Goose is aggressively territorial, jumpy, easily startled, loud and boisterous. Favoured environment: open fields as a wilderness totem, parks as an urban one.</p>\n<ul><li><strong>Advantages:</strong> +2 dice for detection spells and +1 die for combat spells (applied by the system).</li>\n<li><strong>Conjuring:</strong> a wilderness Goose shaman gets +2 dice for <em>wind</em> spirits; an urban one, +2 for <em>field</em> spirits. The totem table grants both, so the GM should allow only the one that fits where the shaman works.</li>\n<li><strong>Disadvantage:</strong> easily startled, and honks loudly when surprised: +1 penalty on all Surprise Tests (apply it by hand).</li></ul>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "cfd6975e668ac280",
+      "name": "Gamma-scopolamine aftermath",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Gamma-scopolamine's paralysis lasts an hour (its 10D Stun is rolled by the drug system). For the hour after that, it acts as a truth serum: Willpower −2, to a minimum of 1 (CSH p.81). The drug system applies a compound's effects when it's taken, so add this one by hand: when the first hour ends, give the actor an Active Effect of Willpower −2 (system.willpower.mod, Add, −2) and delete it an hour later.</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!56052481ec172565"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "05485f4656ec3fed",
+  "name": "SuperSquirt II Reservoir Clip",
+  "type": "ammo",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "quantity": 1,
+    "damageModifier": 0,
+    "armorModifier": 0,
+    "damageType": "",
+    "armorCalc": "standard",
+    "ammoType": "cartridge",
+    "cost": 10,
+    "streetIndex": 1.5,
+    "notes": "Extra DMSO gel reservoir clip for the Ares SuperSquirt II (20 shots), 10¥. Corporate Security Handbook p.67."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!05485f4656ec3fed"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "cfd307ba5169cfb7",
+  "name": "Individualized Biometric Safety (IBS)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0.1,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": true,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 2250,
+    "availability": "3/36 hrs",
+    "streetIndex": 1.5,
+    "notes": "A biometric palm reader fitted to a weapon's grip and linked to its internal safety: unless the scanned palm matches the owner's, the safety stays locked and the weapon is inert. Compatible with most smartlink/smartgun technology. To change owners, burn new firmware onto an optical chip (blank chips 50¥, programmed at a computer repair shop or facility). Owners with a cyberhand use the IBS cyber modification instead. Legality is not printed in the catalog. Corporate Security Handbook p.71."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cfd307ba5169cfb7"
+}

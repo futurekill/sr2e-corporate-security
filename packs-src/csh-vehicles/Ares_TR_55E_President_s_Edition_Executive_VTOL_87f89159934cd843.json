@@ -1,0 +1,57 @@
+{
+  "_id": "87f89159934cd843",
+  "name": "Ares TR-55E \"President's Edition\" Executive VTOL",
+  "type": "vehicle",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "skill": "",
+    "acceleration": 0,
+    "sensor": 0,
+    "autonav": 0,
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "vehicleType": "vectored_thrust",
+    "handling": 5,
+    "speed": 170,
+    "body": 3,
+    "armor": 0,
+    "signature": 3,
+    "pilot": 3,
+    "seating": "Twin bucket seats + 9 executive bucket seats",
+    "cargo": 20,
+    "cost": 650000,
+    "availability": "65/65 days",
+    "notes": "<p>Twin bucket seats in a separated cockpit for the pilots and deluxe leather lounge seats for nine. Speed 170/350 (cruise/maximum; the sheet holds the cruise figure). Acceleration is not printed. Access 1 + 1 standard. Economy 1.2 km per liter (VTOL: 0.75 km/liter). Fuel IC/1,520 liters. Storage 10 CF storage + 10 CF cargo. Landing/Takeoff VTOL/STOL. Street Index 2. Divide the Availability target number by 3 (round up) for the mercenary contact known as the Dealer (Fields of Fire p.81). Options: Full Communications Suite 5,000¥ (2 CF), Wet Bar 1,000¥ (2), Lavatory 10,000¥ (4), Kitchenette 8,000¥ (4), Entertainment System 5,000¥ (2), Rigger Control System 10,000¥ (6).</p><p><em>Corporate Security Handbook p.87.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ares TR-55E \"President's Edition\" Executive VTOL",
+    "actorLink": false,
+    "disposition": 0,
+    "texture": {
+      "src": "icons/svg/car.svg"
+    },
+    "lockRotation": false
+  },
+  "_key": "!actors!87f89159934cd843"
+}

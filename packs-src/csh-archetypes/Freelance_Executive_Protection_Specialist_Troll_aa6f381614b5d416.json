@@ -1,0 +1,289 @@
+{
+  "_id": "aa6f381614b5d416",
+  "name": "Freelance Executive Protection Specialist (Troll)",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>Not a low-life gang member or thug but a highly trained, dedicated professional who has tailored body and mind to one duty: keeping clients alive. Many grow closer to their clients than family, and some are worth more than the people they guard.</p>\n<p><strong>Augmented (applied):</strong> body 9 (10), reaction 2 (6).</p>\n<p><strong>Note:</strong> Natural thermographic vision, +1 Reach for armed/unarmed combat, and natural dermal armor (1). Choose an allergy if using that option (SR2 p.46).</p>\n<p><strong>Dice Pools (printed):</strong> Combat 3</p>\n<p><strong>Cyberware:</strong> Optical Vision Magnification: 3; Retinal Modification: Flare Compensation; Skillsofts: Biotech 3, and (4) Etiquette skillsofts at 3 points each; Skillwire: 3; Smartlink; Wired Reflexes: 2</p>\n<p><strong>Gear:</strong> Ares Predator II (with 4 spare clips); Concealed Holster; DocWagon™ Contract (Gold); Fineblade Long Blade; Form-Fitted Body Armor: 3; Medkit; Pocket Secretary; Portable Phone (Earplug with Booster); Tres Chic Clothing. Contacts: choose (2). Starting cash 1,255¥ + (3D6 × 1,000¥).</p>\n<p><strong>Archetype.</strong> A ready-to-play character in the book's stat-block form: values here are exactly as printed (the book gives only total Essence, not a per-implant breakdown). To play one, make a character and copy these numbers, cyberware and gear across.</p>\n<p><em>Corporate Security Handbook p.121.</em></p>",
+    "race": "troll",
+    "professionalRating": 0,
+    "body": {
+      "base": 9,
+      "mod": 1,
+      "value": 10,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "strength": {
+      "base": 7,
+      "mod": 0,
+      "value": 7,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 1,
+      "mod": 0,
+      "value": 1,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "essence": {
+      "value": 1.9,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 4
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 3,
+      "mod": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "18215ad2dee6b0ab",
+      "name": "Armed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7776422ee075d411",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "abb9e32c425c427c",
+      "name": "Gunnery",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8e24e598d091c575",
+      "name": "Negotiation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a00eec752f448c10",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Freelance Executive Protection Specialist (Troll)",
+    "actorLink": false,
+    "disposition": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!aa6f381614b5d416"
+}

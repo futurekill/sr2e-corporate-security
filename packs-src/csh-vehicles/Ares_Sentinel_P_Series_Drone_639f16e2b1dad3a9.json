@@ -1,0 +1,57 @@
+{
+  "_id": "639f16e2b1dad3a9",
+  "name": "Ares Sentinel \"P\" Series Drone",
+  "type": "vehicle",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "skill": "",
+    "acceleration": 0,
+    "sensor": 4,
+    "autonav": 0,
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "vehicleType": "drone",
+    "handling": 5,
+    "speed": 10,
+    "body": 4,
+    "armor": 12,
+    "signature": 6,
+    "pilot": 3,
+    "seating": "0",
+    "cargo": 0,
+    "cost": 60000,
+    "availability": "GM's discretion",
+    "notes": "<p>Semi-mobile Sentinel that runs a fixed patrol circuit on a monorail-style track (EMMA™ electromagnetic movement and articulation), drawing power from the track; on power failure, safety clamps grip the track and it switches to its internal battery. Economy N/A; Power 2 PF; Store N/A. Operational duration: building supplied/unlimited; backup battery 2 hours. Setup/breakdown N/A. Sensor package Security I (4). Indoor model: badge proximity interrogation system (CSH p.30) and a firmpoint for any Ares Sentinel weapons pod; 4 points of recoil compensation. Weatherproofed outdoor model +10,000¥. Track 100¥ per metre (10 cm wide; walls, ceilings, fence tops; connects to building power). Not normally available on the street.</p><p><em>Corporate Security Handbook p.90.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ares Sentinel \"P\" Series Drone",
+    "actorLink": false,
+    "disposition": 0,
+    "texture": {
+      "src": "icons/svg/car.svg"
+    },
+    "lockRotation": false
+  },
+  "_key": "!actors!639f16e2b1dad3a9"
+}

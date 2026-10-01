@@ -1,0 +1,240 @@
+{
+  "_id": "a342204502111e06",
+  "name": "Designing a Security System",
+  "pages": [
+    {
+      "_id": "74f378fc5f0fd3af",
+      "name": "Security levels",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Split a site's security into components and give each a level from 0 (none) to 4 (the best available). Level 4 components tend to be active measures; levels 3 and below tend to be passive. Each level includes what the lower levels have. Equipment found at a level has a rating equal to that level; if a device first appears at a lower level than the one you chose, a rating of twice the chosen level is a good rule of thumb (CSH p.94–96).</p>\n<table><thead><tr><th>Area</th><th>Components</th><th>What the levels add (summary)</th></tr></thead><tbody><tr><td>Physical</td><td>barriers, lighting, guards, security animals</td><td>1 reinforced interior doors, perimeter lights, guards at entrances · 2 fences, spotlights, scheduled patrols with mundane animals · 3 slab-to-slab walls, lighting everywhere, officers at all entrances and random patrols · 4 living walls against astral intrusion, IR/low-level/magical lighting, constant patrols with paranormal or cybered animals</td></tr><tr><td>Technical</td><td>alarms and access control; surveillance</td><td>1 Type 1–2 maglocks, exterior CCTV · 2 door/window sensors, fence alarms, Type 2–3 maglocks, interior CCTV, an on-call rigger · 3 volumetric and door sensors, Type 3 maglocks (biometric in sensitive areas), patrol drones, a full-time rigger on CCSS · 4 Type 4 and biometric maglocks, interior drone patrols, extensive CCSS and fixed drone emplacements</td></tr><tr><td>Magical</td><td>on-site magical security</td><td>1 a corporate magician on call · 2 a full-time security magician · 3 wards and/or a fiber-optic observation network · 4 watchers, nature spirits or elementals patrolling, alarms and fast-response teams</td></tr><tr><td>Matrix</td><td>the site's private matrix</td><td>1 corporate deckers on call · 2 full-time deckers on site, in the matrix during external alerts · 3 in the matrix during internal alerts · 4 a security decker in the matrix around the clock</td></tr><tr><td>Personnel</td><td>screening of employees</td><td>1 background computer checks and a few interviews · 2 full investigations back fifteen years · 3 active security-awareness programs · 4 periodic loyalty checks, re-investigations and lie-detector tests</td></tr></tbody></table>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "e8c3b3b52ee1b089",
+      "name": "Overall Security Level",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add up the levels of all the components and divide by 6, rounding down. Well-trained, motivated staff can push it up (to a maximum of 4 for a Level 3 system); overworked or poorly trained staff can pull it down. The OSL never goes above 5 or below 0. For a megacorp rated in <em>Corporate Shadowfiles</em>, halve its Security Rating, rounding down (CSH p.98).</p>\n<p><strong>Defeating a component with dice:</strong> the appropriate skill test against a target number of twice the component's level, needing successes equal to the OSL. Failure sets off an alarm, and the test is needed every time the component is passed — on the way out too (CSH p.104). Roleplaying around a system (finding its designer, a disgruntled employee) is often easier, especially for fat bacteria.</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "717af738ded3adc6",
+      "name": "Technical Security Ratings",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Ratings for devices by the security level of their component (CSH p.100). For biometric maglocks, add 2.</p>\n<table><thead><tr><th>Level</th><th>Alarms (interior/exterior)</th><th>Maglocks</th><th>CCTV (exterior/interior)</th><th>CCSS</th></tr></thead><tbody><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>0</td><td>2–3</td><td>2–3/0</td><td>0</td></tr><tr><td>2</td><td>2–3/0</td><td>4–5</td><td>4–5/2–3</td><td>0</td></tr><tr><td>3</td><td>4–5/2–3</td><td>6–7</td><td>6–7/4–5</td><td>3–4</td></tr><tr><td>4</td><td>6–7/4–5</td><td>8+</td><td>8+/6–7</td><td>5–6</td></tr></tbody></table>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "6f51cb74c4d5b810",
+      "name": "Wire and sensors",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<table><thead><tr><th>Wire</th><th>Perception TN</th><th>Damage (grab/walk/run)</th><th>Barrier</th></tr></thead><tbody><tr><td>Barbed</td><td>2</td><td>3L/4L/6L</td><td>6</td></tr><tr><td>Razor</td><td>2</td><td>4L/5L/4M</td><td>6</td></tr><tr><td>Concertina</td><td>0</td><td>4M/5M/8M</td><td>6</td></tr><tr><td>Monowire</td><td>6</td><td>4S/5S/7S</td><td>5</td></tr></tbody></table>\n<p>Impact armor gives half (round down) protection against wire, and Combat Pool can't be used to resist it. Damage goes to the wire itself; clippers double the cutter's Strength, and each 2 successes on a Strength Test against the Barrier add 1 (CSH p.99). Spotting modifiers: brush +1 to +4, distracted or running +2, fluctuating light +1 for the worst level.</p>\n<table><thead><tr><th>Pressure sensor</th><th>Perception TN</th><th>Sensitivity: normal / animals / drones</th></tr></thead><tbody><tr><td>Pressure mesh</td><td>8</td><td>7 / 4 / 3</td></tr><tr><td>Pressure pad</td><td>6</td><td>7 / 3 / 4</td></tr></tbody></table>\n<p>A pressure sensor can be noticed with a Perception Test; failing a second one at −2 means it was stepped on, and a Reaction Test against the sensitivity plus natural Body takes the weight off before it triggers (+2 if running). Motion sensors are beaten by moving very slowly (half a metre per turn) with a Stealth Test against their rating; an ultrasound emitter/detector (Concealability 8, (Rating × 2)/72 hrs, Rating × 400¥, SI 3) contests them. Vibration detectors are 6 to 10+; trip beams are bypassed with a Quickness Test of 4–8, or 8/12/16 for proxy emitters by how much of the design you know (CSH p.99–100).</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "9bcc01d5a762c865",
+      "name": "Maglocks and scanners",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Keypads and cardreaders come in two steps (CSH p.100–101, from the Neo-Anarchists' Guide):</p>\n<ol><li><strong>Remove the casing:</strong> Electronics (B/R) Test against the casing's Barrier Rating (usually the keypad's rating), base 60 seconds; any anti-tamper alarm rating adds to the TN, and failing it triggers the alarm.</li>\n<li><strong>Tamper with the circuits:</strong> Electronics Test against the keypad's rating, base 60 seconds; failure trips a passive alert. A cardreader's casing is twice its rating and tampering is at +2.</li></ol>\n<p><strong>Sequencers</strong> (Rating 1–6, 500¥ × Rating²) still need the casing off: roll the sequencer's rating against the keypad's rating while the keypad rolls its rating against the sequencer's; base 10 seconds; if the keypad gets more successes, a passive alert. A <strong>passcard</strong> works the same way without removing the casing (10 seconds; failure triggers an alarm); a maglock passcard costs 10,000¥ × Rating².</p>\n<p><strong>Print scanners</strong> (Rating 1–10): phony prints are Rating 1–8 at 200¥ per point and need an Intelligence (3) Test to cast; a severed finger or hand is Rating 8 and loses a point an hour (one per 3 hours with care). Retinal duplication is 50,000¥ + 25,000¥ per extra point; Essence .1 at Rating 1, .25 at 2–4, .5 at 5+. To beat a scanner, it rolls its rating against the fake's rating; one success detects the fake. Tampering with a scanner is as a keypad at +4.</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "9563ec88c0efc120",
+      "name": "Rigger combat",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>To take over a rigged system an outside rigger needs a hardwire access point, a dataline tap (rating + Electronics against twice the surveillance level, successes equal to the OSL), to defeat any encryption (decryption module rating + Intelligence against twice the alarm/access level) and to adjust to the protocols (emulation module rating + Intelligence against twice the surveillance level) — each needing successes equal to the OSL, or the system goes on alert (CSH p.104–105).</p>\n<p>Then the two riggers fight: rigged Initiative; the attacker makes an opposed Willpower Test (Control Pool may add dice, to a maximum of Willpower); greater net successes deal (Willpower)L Stun, +1 level per 2 successes, resisted with Body (Control Pool to a maximum of Body). Attacking is a Complex Action; disengaging (jacking out) is Free. A decker can fight a rigged system with a System Control Rig Emulator: no programs, +2 to all tests, Initiative −2 with no Response Increase dice, Control Pool half the emulation utility's rating (round up), and damage as from black IC (SR2 p.171).</p>"
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!a342204502111e06"
+}

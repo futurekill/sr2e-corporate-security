@@ -1,0 +1,38 @@
+{
+  "_id": "89f5edb79a7f7c24",
+  "name": "Extended Missile Parry",
+  "type": "adept_power",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "level": 1,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "reaction": 0
+    },
+    "pointCost": 1.5,
+    "maxLevel": 1,
+    "description": "<p>Like Missile Parry (Grimoire II p.34), but the adept can extend it to an individual they are protecting, up to 3 meters away.</p>",
+    "notes": "Cost 1.5 points. For executive-protection adepts. Corporate Security Handbook p.104."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!89f5edb79a7f7c24"
+}

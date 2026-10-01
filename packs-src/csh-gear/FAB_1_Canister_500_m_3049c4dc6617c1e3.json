@@ -1,0 +1,43 @@
+{
+  "_id": "3049c4dc6617c1e3",
+  "name": "FAB-1 Canister (500 m³)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 25000,
+    "availability": "GM's discretion",
+    "streetIndex": 0,
+    "notes": "<p>Fat bacteria, strain 1 (BacteriTech™): 500 m³ of genetically engineered, massive bacteria. Pumped into an enclosed space until the air is a \"soup\", it stops astral movement as an ivy-covered wall does. Shipped in coolant/feeding vats; once out of the vat FAB-1 begins to die and can't be reused. Not generally available on the street (Availability at the GM's discretion; no Street Index printed).</p><p><strong>In Foundry:</strong> draw a Region over the flooded space and add the system's <em>Fat bacteria zone</em> behaviour (FAB-1): astral forms inside are held to normal astral speed and astral perception there is +4 (CSH p.103). For FAB-filled walls, set the walls' Astral barrier to \"Fat bacteria\".</p><p>Corporate Security Handbook p.82.</p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3049c4dc6617c1e3"
+}

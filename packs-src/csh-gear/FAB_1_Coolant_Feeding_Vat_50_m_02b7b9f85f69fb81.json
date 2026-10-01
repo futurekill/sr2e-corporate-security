@@ -1,0 +1,43 @@
+{
+  "_id": "02b7b9f85f69fb81",
+  "name": "FAB-1 Coolant/Feeding Vat (50 m³)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "general",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 2500,
+    "availability": "GM's discretion",
+    "streetIndex": 0,
+    "notes": "The pressurized coolant/feeding vat a 50 m³ FAB-1 canister ships and is stored in. Not generally available on the street. Corporate Security Handbook p.82."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!02b7b9f85f69fb81"
+}

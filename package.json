@@ -1,0 +1,20 @@
+{
+  "name": "sr2e-corporate-security",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build-packs": "node tools/build-packs.mjs",
+    "extract-packs": "node tools/extract-packs.mjs",
+    "validate": "node tools/validate-packs.mjs",
+    "art": "node tools/set-art.mjs",
+    "generate": "node tools/gen-items.mjs && node tools/gen-actors.mjs && node tools/gen-journals.mjs",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "classic-level": "^3.0.0",
+    "eslint": "^9.39.5",
+    "globals": "^17.12.0"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "4f5e0eaf37feb584",
+  "name": "Ares Cascade Rifle",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageType": "physical",
+    "reach": 0,
+    "recoilComp": 0,
+    "smartgunCompatible": false,
+    "strengthMin": 0,
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "damageCode": "Special",
+    "concealability": 4,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 60,
+      "max": 60,
+      "type": "cartridge"
+    },
+    "ranges": {
+      "short": 10,
+      "medium": 40,
+      "long": 80,
+      "extreme": 150
+    },
+    "weight": 5.5,
+    "cost": 1800,
+    "availability": "12/14 days",
+    "streetIndex": 2,
+    "notes": "Chemical-delivery rifle with a selectable nozzle. STREAM mode: SMG ranges (as set here). SPRAY mode: treat as a shotgun with a fixed choke of 2 (SR2 p.95 spread patterns), with Power reduction applied to the chemical. Ammo 60 as printed in the stat line; the footnote says the DMSO gel reservoir \"is good for 100 shots\" — the book disagrees with itself, the stat line is used. A second clip holds the chemical; extra reservoir clips 20¥; the stock's CO₂ canister recharges for 50¥. May be drone-mounted; accepts top- and underbarrel accessories, not barrel. Legality is not printed in the catalog. Corporate Security Handbook p.68."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!4f5e0eaf37feb584"
+}

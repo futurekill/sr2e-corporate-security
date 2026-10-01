@@ -1,0 +1,786 @@
+{
+  "$source": "Corporate Security Handbook (FASA 7118) Security Personnel p.106-121 and Archetypes p.121-124, transcribed from 170 dpi page renders (the PDF has no text layer). `boosted` = a parenthesised figure that always applies; `conditional` = a starred figure that applies only when decking or rigging (kept in the bio, not on the sheet). `dice` = the printed total Initiative dice.",
+  "contacts": [
+    {
+      "name": "Executive Protection Adept",
+      "page": 107,
+      "pr": "3-4",
+      "attrs": {
+        "body": 5,
+        "quickness": 5,
+        "strength": 4,
+        "charisma": 3,
+        "intelligence": 4,
+        "willpower": 5,
+        "essence": 6,
+        "reaction": 4
+      },
+      "magic": 6,
+      "magicType": "physical_adept",
+      "boosted": {
+        "reaction": 5
+      },
+      "dice": 2,
+      "skills": {
+        "Biotech": 2,
+        "Conjuring": 3,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 4,
+        "Stealth": 4,
+        "Unarmed Combat": 6
+      },
+      "powers": [
+        "Astral Perception",
+        "Enhanced Perception: 2",
+        "Improved Physical Senses (Flare Compensation, Low-Light Vision, Vision Magnification 2)",
+        "Increased Reaction: 1",
+        "Increased Reflexes: 1"
+      ],
+      "blurb": "The execsec team's advance man: superior perception and stealth to watch the mundane world and astral space at once, quick to spot trouble and quick to stop it."
+    },
+    {
+      "name": "Executive Protection Decker",
+      "page": 108,
+      "pr": "3-4",
+      "attrs": {
+        "body": 3,
+        "quickness": 5,
+        "strength": 2,
+        "charisma": 3,
+        "intelligence": 6,
+        "willpower": 5,
+        "essence": 1,
+        "reaction": 4
+      },
+      "boosted": {
+        "intelligence": 7
+      },
+      "conditional": "Reaction 8 and Initiative 8 + 3D6 when decking.",
+      "dice": 1,
+      "skills": {
+        "Biotech": 2,
+        "Computer": 6,
+        "Computer Theory": 4,
+        "Computer (B/R)": 4,
+        "Electronics": 4,
+        "Etiquette (Corporate)": 3,
+        "Firearms": 2
+      },
+      "cyber": [
+        "Cranial Cyberdeck (MPCP 8, Persona 8, Hardening 4, Memory: Active 100 Mp, Storage 500 Mp, Input/Output 80, Response Increase 2)",
+        "Datajack 4",
+        "Encephalon 2",
+        "Headware Memory 100 Mp",
+        "I/O SPU 2"
+      ],
+      "blurb": "Rides the Matrix for the client: reservations, contacts, dealings and itineraries, black information, misinformation planted, and the police, rescue and air-traffic frequencies watched."
+    },
+    {
+      "name": "Executive Protection Mage",
+      "page": 109,
+      "pr": "3-4",
+      "attrs": {
+        "body": 3,
+        "quickness": 5,
+        "strength": 3,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 6,
+        "essence": 5.8,
+        "reaction": 5
+      },
+      "magic": 5,
+      "magicType": "full_magician",
+      "dice": 1,
+      "skills": {
+        "Biotech": 4,
+        "Conjuring": 3,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 3,
+        "Magical Theory": 4,
+        "Sorcery": 6,
+        "Unarmed Combat": 2
+      },
+      "cyber": [
+        "Cybereyes with Electronic Magnification 3, Flare Compensation and Low-Light"
+      ],
+      "spells": {
+        "Blast Barrier": 3,
+        "Bullet Barrier": 3,
+        "Combat Sense": 3,
+        "Detect Enemies (Extended)": 3,
+        "Stabilize": 3,
+        "Spell Barrier": 3,
+        "Treat": 3
+      },
+      "blurb": "Not an ordinary mage: protection, detection and offensive spells juggled with equal ability, and always ready to give immediate magical medical aid."
+    },
+    {
+      "name": "Executive Protection Rigger",
+      "page": 110,
+      "pr": "3-4",
+      "attrs": {
+        "body": 3,
+        "quickness": 6,
+        "strength": 3,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 5,
+        "essence": 1.25,
+        "reaction": 5
+      },
+      "conditional": "Reaction 9 and Initiative 9 + 3D6 when rigging.",
+      "dice": 1,
+      "skills": {
+        "Biotech": 2,
+        "Car": 5,
+        "Computer": 3,
+        "Electronics": 3,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 2,
+        "Gunnery": 4,
+        "Vectored Thrust Vehicles": 4
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light and Thermographic",
+        "Datajack (Lvl 4)",
+        "Radio",
+        "Orientation System (with collection of softmaps)",
+        "Vehicle Control Rig (2)"
+      ],
+      "blurb": "Coordinates all of the client's transportation: armored vehicles, drones, air and water transport. Never call one a chauffeur."
+    },
+    {
+      "name": "Executive Protection Specialist",
+      "page": 110,
+      "pr": "3-4",
+      "attrs": {
+        "body": 6,
+        "quickness": 6,
+        "strength": 5,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 5,
+        "essence": 0.6,
+        "reaction": 5
+      },
+      "boosted": {
+        "body": 9,
+        "reaction": 9
+      },
+      "dice": 3,
+      "bodyIndex": 0.6,
+      "skills": {
+        "Biotech": 2,
+        "Car": 4,
+        "Etiquette (Corporate)": 3,
+        "Stealth": 2,
+        "Unarmed Combat": 6
+      },
+      "bioware": [
+        "Damage Compensator (3)"
+      ],
+      "cyber": [
+        "Cybereyes with Electronic Magnification 3, Flare Compensation, Low-Light, Rangefinder and Thermographic",
+        "Dermal Plating 3",
+        "Smartlink II",
+        "Wired Reflexes: 2"
+      ],
+      "blurb": "The client's personal shield and the basic unit of every execsec team: trained to protect the client's life even at the cost of their own, and far more than a muscleman."
+    },
+    {
+      "name": "Investigator",
+      "page": 111,
+      "pr": "2-3",
+      "attrs": {
+        "body": 3,
+        "quickness": 4,
+        "strength": 3,
+        "charisma": 5,
+        "intelligence": 5,
+        "willpower": 6,
+        "essence": 3.8,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 4,
+        "Etiquette (Street)": 3,
+        "Firearms": 3,
+        "Interrogation": 5,
+        "Negotiation": 3,
+        "Psychology": 2,
+        "Sociology": 2
+      },
+      "cyber": [
+        "Datajack",
+        "Retinal Modification: Display Link",
+        "Headware Memory 100 Mp",
+        "Video Link with Internal Transmitter"
+      ],
+      "blurb": "Trained in espionage, interview and interrogation, and data gathering; handles every security investigation involving personnel."
+    },
+    {
+      "name": "Magical Security Specialist",
+      "page": 112,
+      "pr": "2-3",
+      "attrs": {
+        "body": 3,
+        "quickness": 4,
+        "strength": 3,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 4,
+        "essence": 6,
+        "reaction": 4
+      },
+      "magic": 6,
+      "magicType": "physical_adept",
+      "boosted": {
+        "reaction": 5
+      },
+      "dice": 2,
+      "skills": {
+        "Etiquette (Corporate)": 2,
+        "Firearms": 3,
+        "Interrogation": 2,
+        "Unarmed Combat": 4
+      },
+      "skillsBoosted": "Firearms 3 (4) and Unarmed Combat 4 (5) with the Improved Ability powers.",
+      "special": {
+        "Security Systems": 2
+      },
+      "powers": [
+        "Astral Perception",
+        "Improved Unarmed Combat (1)",
+        "Improved Firearms (1)",
+        "Improved Physical Senses (Flare Compensation, Low-Light Vision)",
+        "Increased Reaction (1)",
+        "Increased Reflexes (1)"
+      ],
+      "blurb": "Specialists in one area of magical security, most often wards, astral monitoring or conjuring; usually the most egocentric of all security personnel, and worth their weight in gold."
+    },
+    {
+      "name": "Magical Security Engineer",
+      "page": 113,
+      "pr": "1-2",
+      "attrs": {
+        "body": 2,
+        "quickness": 3,
+        "strength": 2,
+        "charisma": 2,
+        "intelligence": 6,
+        "willpower": 4,
+        "essence": 4.7,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Electronics (Security Systems)": 5,
+        "Electronics (Security Systems) (B/R)": 6,
+        "Etiquette (Corporate)": 1,
+        "Firearms": 1,
+        "Magical Theory": 6,
+        "Physical Science": 3
+      },
+      "special": {
+        "Security System Design": 5
+      },
+      "cyber": [
+        "Datajack",
+        "Headware Memory 100 Mp",
+        "Retinal Modification: Display Link"
+      ],
+      "blurb": "A mundane, and proud of it: magical theory, the physical sciences and trial and error, building technical aids such as fiber-optic viewing systems and defenses such as bacterial containment grids."
+    },
+    {
+      "name": "Personnel Security Specialist",
+      "page": 114,
+      "pr": "1-3",
+      "attrs": {
+        "body": 4,
+        "quickness": 4,
+        "strength": 3,
+        "charisma": 4,
+        "intelligence": 4,
+        "willpower": 4,
+        "essence": 5.5,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 4,
+        "Firearms": 2,
+        "Interrogation": 3,
+        "Negotiation": 1,
+        "Psychology": 1,
+        "Sociology": 1,
+        "Unarmed Combat": 2
+      },
+      "special": {
+        "Security Systems": 2
+      },
+      "cyber": [
+        "Smartlink"
+      ],
+      "blurb": "The backbone of corporate persec: background checks on candidates, employees and associates, monitoring work habits, and security clearances."
+    },
+    {
+      "name": "Security Commander",
+      "page": 115,
+      "pr": "3-4",
+      "attrs": {
+        "body": 4,
+        "quickness": 4,
+        "strength": 4,
+        "charisma": 5,
+        "intelligence": 5,
+        "willpower": 6,
+        "essence": 4.25,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 4,
+        "Firearms": 4,
+        "Leadership": 5,
+        "Negotiation": 2,
+        "Military Theory": 2,
+        "Unarmed Combat": 4
+      },
+      "special": {
+        "Security Systems": 4
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light, and Thermographic",
+        "Radio with Commlink II",
+        "Smartlink"
+      ],
+      "blurb": "No office drone: she has served on the front lines, commands every security force on patrol like a general, and sees security as nothing short of war."
+    },
+    {
+      "name": "Security Decker",
+      "page": 116,
+      "pr": "2-3",
+      "attrs": {
+        "body": 3,
+        "quickness": 4,
+        "strength": 2,
+        "charisma": 2,
+        "intelligence": 5,
+        "willpower": 4,
+        "essence": 5.2,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Computer": 5,
+        "Computer Theory": 4,
+        "Computer (B/R)": 2,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 1
+      },
+      "special": {
+        "Security Systems": 3
+      },
+      "cyber": [
+        "Datajack",
+        "Headware Memory 50 Mp",
+        "Retinal Modification: Display Link"
+      ],
+      "gear": "Appropriate cyberdeck and programs (MPCP equal to twice Professional Rating + 1).",
+      "blurb": "The meat behind the corporate IC: a shark patrolling her corporation's nodes, watching for break-ins and internal anomalies."
+    },
+    {
+      "name": "Security Executive",
+      "page": 116,
+      "pr": "2-3",
+      "attrs": {
+        "body": 3,
+        "quickness": 3,
+        "strength": 3,
+        "charisma": 5,
+        "intelligence": 5,
+        "willpower": 5,
+        "essence": 4.2,
+        "reaction": 4
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 5,
+        "Firearms": 1,
+        "Interrogation": 4,
+        "Negotiation": 4
+      },
+      "special": {
+        "Security Systems": 1
+      },
+      "cyber": [
+        "Datajack",
+        "Headware Memory 100 Mp",
+        "Retinal Modification: Display Link",
+        "Smartlink"
+      ],
+      "blurb": "Head of the security division: organization, budgets and boards of directors, never the front lines. His head is the first to roll after a serious breach."
+    },
+    {
+      "name": "Security Guard",
+      "page": 117,
+      "pr": "1-2",
+      "attrs": {
+        "body": 4,
+        "quickness": 3,
+        "strength": 3,
+        "charisma": 2,
+        "intelligence": 2,
+        "willpower": 2,
+        "essence": 6,
+        "reaction": 2
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 2,
+        "Firearms": 3,
+        "Interrogation": 2,
+        "Unarmed Combat": 3
+      },
+      "special": {
+        "Security Systems": 1
+      },
+      "blurb": "The most numerous and visible member of the physec team: checkpoints and foot patrols, entry-level and minimally trained."
+    },
+    {
+      "name": "Security Mage",
+      "page": 118,
+      "pr": "2-3",
+      "attrs": {
+        "body": 2,
+        "quickness": 4,
+        "strength": 2,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 5,
+        "essence": 5.3,
+        "reaction": 4
+      },
+      "magic": 5,
+      "magicType": "full_magician",
+      "dice": 1,
+      "skills": {
+        "Conjuring": 3,
+        "Etiquette (Corporate)": 3,
+        "Firearms": 2,
+        "Magical Theory": 4,
+        "Sorcery": 6,
+        "Unarmed Combat": 2
+      },
+      "special": {
+        "Security Systems": 3
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light, and Thermographic",
+        "Smartlink"
+      ],
+      "spells": {
+        "Chaos": 3,
+        "Personal Combat Sense": 3,
+        "Stun Bolt": 3,
+        "Stunball": 3,
+        "Treat": 3,
+        "Wrecker": 3
+      },
+      "blurb": "Sets up a site's magical protection and monitors the astral paths and magical defenses on duty; prefers to slow intruders down and capture them."
+    },
+    {
+      "name": "Security Officer",
+      "page": 119,
+      "pr": "3-4",
+      "attrs": {
+        "body": 4,
+        "quickness": 4,
+        "strength": 4,
+        "charisma": 3,
+        "intelligence": 3,
+        "willpower": 3,
+        "essence": 4.75,
+        "reaction": 3
+      },
+      "dice": 1,
+      "skills": {
+        "Etiquette (Corporate)": 3,
+        "Firearms": 5,
+        "Interrogation": 3,
+        "Leadership": 2,
+        "Unarmed Combat": 4
+      },
+      "special": {
+        "Security Systems": 3
+      },
+      "cyber": [
+        "Radio",
+        "Smartlink"
+      ],
+      "blurb": "Responsible for the complete security of one location, answering only to the security commander; the next generation of commanders."
+    },
+    {
+      "name": "Security Rigger",
+      "page": 119,
+      "pr": "2-4",
+      "attrs": {
+        "body": 4,
+        "quickness": 6,
+        "strength": 3,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 6,
+        "essence": 0.55,
+        "reaction": 5
+      },
+      "conditional": "Reaction 11 and Initiative 11 + 4D6 when rigging.",
+      "dice": 1,
+      "skills": {
+        "Computer": 3,
+        "Electronics": 3,
+        "Etiquette (Corporate)": 1,
+        "Firearms": 3,
+        "Gunnery": 3,
+        "Remote Operations (Cars)": 5,
+        "Remote Operations (Rotorcraft)": 5,
+        "Remote Operations (Vectored Thrust)": 5
+      },
+      "special": {
+        "Security Systems": 5
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light, and Thermographic",
+        "Datajack (4)",
+        "Vehicle Control Rig (3)"
+      ],
+      "blurb": "The newest member of the team: through CCSS and a system control rig she monitors and controls the whole technical security system, and can still drive a pretty mean drone."
+    },
+    {
+      "name": "Security Specialist: Animal Handler",
+      "page": 120,
+      "pr": "2-4",
+      "attrs": {
+        "body": 4,
+        "quickness": 4,
+        "strength": 3,
+        "charisma": 5,
+        "intelligence": 3,
+        "willpower": 4,
+        "essence": 5.3,
+        "reaction": 3
+      },
+      "dice": 1,
+      "skills": {
+        "Biotech": 2,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 3,
+        "Unarmed Combat": 3
+      },
+      "special": {
+        "Animal Handling": 5,
+        "Security Systems": 2
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light, and Thermographic",
+        "Smartlink"
+      ],
+      "blurb": "Trained to handle, control and command security animals, paranormal and mundane; some have worked with the rare cybered animal."
+    },
+    {
+      "name": "Security Specialist: Fast Response Officer",
+      "page": 120,
+      "pr": "3-4",
+      "attrs": {
+        "body": 5,
+        "quickness": 5,
+        "strength": 5,
+        "charisma": 2,
+        "intelligence": 5,
+        "willpower": 4,
+        "essence": 2.8,
+        "reaction": 5
+      },
+      "boosted": {
+        "reaction": 7
+      },
+      "dice": 2,
+      "skills": {
+        "Armed Combat": 4,
+        "Biotech": 4,
+        "Demolitions": 2,
+        "Etiquette (Corporate)": 2,
+        "Firearms": 6,
+        "Gunnery": 4,
+        "Unarmed Combat": 5
+      },
+      "special": {
+        "Security Systems": 1
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Low-Light, and Thermographic",
+        "Dermal Armor: 1",
+        "Smartlink",
+        "Wired Reflexes: 1"
+      ],
+      "blurb": "Special Weapons and Tactics: deployed at a moment's notice to engage intruders, outfitted with state-of-the-art weapons, and they don't take prisoners."
+    }
+  ],
+  "archetypes": [
+    {
+      "name": "Freelance Executive Protection Specialist (Troll)",
+      "page": 121,
+      "pr": "",
+      "race": "troll",
+      "attrs": {
+        "body": 9,
+        "quickness": 2,
+        "strength": 7,
+        "charisma": 1,
+        "intelligence": 2,
+        "willpower": 2,
+        "essence": 1.9,
+        "reaction": 2
+      },
+      "boosted": {
+        "body": 10,
+        "reaction": 6
+      },
+      "dice": 3,
+      "pools": "Combat 3",
+      "skills": {
+        "Armed Combat": 3,
+        "Firearms": 6,
+        "Gunnery": 3,
+        "Negotiation": 3,
+        "Unarmed Combat": 5
+      },
+      "cyber": [
+        "Optical Vision Magnification: 3",
+        "Retinal Modification: Flare Compensation",
+        "Skillsofts: Biotech 3, and (4) Etiquette skillsofts at 3 points each",
+        "Skillwire: 3",
+        "Smartlink",
+        "Wired Reflexes: 2"
+      ],
+      "gear": "Ares Predator II (with 4 spare clips); Concealed Holster; DocWagon™ Contract (Gold); Fineblade Long Blade; Form-Fitted Body Armor: 3; Medkit; Pocket Secretary; Portable Phone (Earplug with Booster); Tres Chic Clothing. Contacts: choose (2). Starting cash 1,255¥ + (3D6 × 1,000¥).",
+      "note": "Natural thermographic vision, +1 Reach for armed/unarmed combat, and natural dermal armor (1). Choose an allergy if using that option (SR2 p.46).",
+      "blurb": "Not a low-life gang member or thug but a highly trained, dedicated professional who has tailored body and mind to one duty: keeping clients alive. Many grow closer to their clients than family, and some are worth more than the people they guard."
+    },
+    {
+      "name": "Freelance Magical Security Consultant",
+      "page": 122,
+      "pr": "",
+      "attrs": {
+        "body": 2,
+        "quickness": 5,
+        "strength": 2,
+        "charisma": 4,
+        "intelligence": 5,
+        "willpower": 6,
+        "essence": 6,
+        "reaction": 5
+      },
+      "magic": 6,
+      "magicType": "full_magician",
+      "dice": 1,
+      "pools": "Combat 8, Magic 6",
+      "skills": {
+        "Conjuring": 4,
+        "Electronics (Security Systems)": 4,
+        "Electronics (Security Systems) (B/R)": 3,
+        "Etiquette (Corporate)": 3,
+        "Firearms": 3,
+        "Magical Theory": 4,
+        "Sorcery": 6
+      },
+      "spells": {
+        "Stun Bolt": 3,
+        "Stunball": 3,
+        "Analyze Truth": 2,
+        "Mind Probe": 2,
+        "Chaos": 3,
+        "Influence": 2
+      },
+      "gear": "Fetishes: (1) Combat, (1) Detection, (2) Illusion, (1) Manipulation; Narcoject Pistol; Pocket Secretary; Secure Long Coat. Cyberware: none. Contacts: choose (2). Starting cash 3D6 × 1,000¥.",
+      "blurb": "A one-time astral intruder now working for the corps: devises ingenious traps that stop or detain intruders, designs and implements magical security systems, and bills for everything."
+    },
+    {
+      "name": "Freelance Security Rigger",
+      "page": 123,
+      "pr": "",
+      "attrs": {
+        "body": 3,
+        "quickness": 6,
+        "strength": 2,
+        "charisma": 3,
+        "intelligence": 5,
+        "willpower": 5,
+        "essence": 1.05,
+        "reaction": 5
+      },
+      "conditional": "Reaction 9 and Initiative 9 + 3D6 when rigged; Control Pool 9 when rigged (5 otherwise).",
+      "dice": 1,
+      "pools": "Combat 8, Control 5 (9 when rigged)",
+      "skills": {
+        "Car": 5,
+        "Computer": 4,
+        "Electronics": 4,
+        "Electronics (B/R)": 5,
+        "Etiquette (Corporate)": 3,
+        "Firearms": 4,
+        "Gunnery": 4,
+        "Rotorcraft": 5,
+        "Vectored Thrust": 5
+      },
+      "cyber": [
+        "Cybereyes with Flare Compensation, Flare Protection and Thermographic",
+        "Datajack",
+        "Radio with Commlink II",
+        "Smartlink",
+        "Vehicle Control Rig: 2"
+      ],
+      "gear": "Ares Viper Slivergun (with 2 spare clips and 90 flechette rounds); Camo Jacket; Dataline Tap: 6; DocWagon™ Contract (Platinum); Form-Fitted Body Armor: 3; Remote Control Deck with (4) Slave Ports, ECM (Security I)/ECCM (Security I) (Rigger Black Book p.127; disregard if that book is unavailable), Internal Rigger Decryption Module: 6, Internal Rigger Protocol Emulation Module: 6. Contacts: choose (2). Starting cash 1,130¥ + (3D6 × 1,000¥).",
+      "blurb": "The oddball of the security business: hours jacked into a building's system, monitoring everything from drones to maglocks. Provides only deck, training and innate ability; the client supplies everything else."
+    },
+    {
+      "name": "Security System Design Engineer (Dwarf)",
+      "page": 124,
+      "pr": "",
+      "race": "dwarf",
+      "attrs": {
+        "body": 2,
+        "quickness": 2,
+        "strength": 3,
+        "charisma": 3,
+        "intelligence": 6,
+        "willpower": 4,
+        "essence": 3.2,
+        "reaction": 4
+      },
+      "dice": 1,
+      "pools": "Combat 6, Control 4",
+      "skills": {
+        "Computer": 5,
+        "Computer (B/R)": 6,
+        "Electronics": 5,
+        "Electronics (B/R)": 6,
+        "Etiquette (Corporate)": 2
+      },
+      "special": {
+        "Security System Design": 6
+      },
+      "cyber": [
+        "Datajack",
+        "Headware Memory: 50 Mp",
+        "Retinal Modification: Display Link",
+        "Vehicle Control Rig (1)"
+      ],
+      "gear": "Computer Tool Kit; Dataline Tap (1); Electronics Tool Kit; External Rigger Decryption Module (1); External Rigger Protocol Emulation Module (1); Pocket Computer with 100 Mp Memory; Remote Control Deck with two Slave Ports; Wrist Phone with Flip-Up Screen. Contacts: choose (2). Starting cash 155¥ + (3D6 × 1,000¥).",
+      "note": "Natural thermographic vision, and +2 Body for disease resistance only. Choose an allergy if using that option.",
+      "blurb": "The master of the security puzzle: assembles, tests, rechecks, repairs and redesigns a system to keep it at peak efficiency, and so becomes a target for kidnapping, extortion, bribery and extraction."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "b40f91feff6af84e",
+  "name": "Active Infrared Portable Floodlight",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 350,
+    "availability": "5/48 hrs",
+    "streetIndex": 2,
+    "notes": "Ares portable security lighting, long-life lithium batteries. Lets thermographic vision (natural or enhanced) see clearly to 20 m (flashlight, barrel mount) or 100 m (floodlight); no effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b40f91feff6af84e"
+}

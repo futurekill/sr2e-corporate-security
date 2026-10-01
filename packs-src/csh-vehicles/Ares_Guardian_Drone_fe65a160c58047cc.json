@@ -1,0 +1,57 @@
+{
+  "_id": "fe65a160c58047cc",
+  "name": "Ares Guardian Drone",
+  "type": "vehicle",
+  "img": "icons/svg/car.svg",
+  "system": {
+    "skill": "",
+    "acceleration": 0,
+    "sensor": 4,
+    "autonav": 0,
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "vehicleType": "vectored_thrust",
+    "handling": 4,
+    "speed": 30,
+    "body": 4,
+    "armor": 12,
+    "signature": 6,
+    "pilot": 3,
+    "seating": "0",
+    "cargo": 20,
+    "cost": 75000,
+    "availability": "8/8 days",
+    "notes": "<p>Free-ranging vectored-thrust Sentinel, small enough for indoors and sturdy enough for outdoors. Handling 4/6 (the sheet holds the first figure; the second is printed as given). Speed 30/60 (cruise/maximum). Store 20 CF. Economy 5 km per PF; Power 30 PF. Operational duration: battery, 2 hours. Setup/breakdown 3 minutes. Sensor package Security I (4). Street Index 2. Its micro-turret accepts any Ares Sentinel weapons pod, with rear attachments for external tanks and compressed air for the Ares Cascade™ delivery system (built-in storage for two 100-shot canisters, DMSO gel and the chemical reserve). An additional 3 CF is available for vehicle control gear or other electronic options.</p><p><em>Corporate Security Handbook p.91.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ares Guardian Drone",
+    "actorLink": false,
+    "disposition": 0,
+    "texture": {
+      "src": "icons/svg/car.svg"
+    },
+    "lockRotation": false
+  },
+  "_key": "!actors!fe65a160c58047cc"
+}

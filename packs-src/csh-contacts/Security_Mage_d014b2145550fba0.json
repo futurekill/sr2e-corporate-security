@@ -1,0 +1,532 @@
+{
+  "_id": "d014b2145550fba0",
+  "name": "Security Mage",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>Sets up a site's magical protection and monitors the astral paths and magical defenses on duty; prefers to slow intruders down and capture them.</p>\n<p><strong>Cyberware:</strong> Cybereyes with Flare Compensation, Low-Light, and Thermographic; Smartlink</p>\n<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): Stun Bolt 3, Stunball 3, Wrecker 3.</p>\n<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>\n<p><strong>Gear:</strong> As appropriate.</p>\n<p><strong>Professional Rating:</strong> 2-3 (the sheet stores 2; the book prints a range)</p>\n<p><em>Corporate Security Handbook p.118.</em></p>",
+    "race": "human",
+    "professionalRating": 2,
+    "body": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 5.3,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 0
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 1,
+      "mod": 0
+    },
+    "magic": {
+      "value": 5,
+      "max": 5,
+      "type": "full_magician",
+      "tradition": "hermetic"
+    },
+    "dicePools": {
+      "magic": {
+        "value": 6,
+        "max": 6
+      }
+    }
+  },
+  "items": [
+    {
+      "_id": "51dacde20561ddaf",
+      "name": "Conjuring",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "75b2c90d9e918a19",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c1784919a428ed5e",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "13efed83029afcb1",
+      "name": "Magical Theory",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "45ad3fbd91fe004a",
+      "name": "Sorcery",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3d1479b9c9b2f4b2",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 2,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "17b60251e2f059af",
+      "name": "Security Systems",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "special",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.102.0",
+        "createdTime": 1790000000000,
+        "modifiedTime": 1790000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3ef6e43b453ff784",
+      "name": "Chaos",
+      "type": "spell",
+      "system": {
+        "category": "illusion",
+        "subcategory": "",
+        "type": "physical",
+        "range": "los",
+        "duration": "sustained",
+        "force": 3,
+        "drainCode": "((F / 2) + 2)M",
+        "target": "Intelligence (R)",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "A target who fails to resist a chaos spell is subject to massive distractions. The spell consumes all senses in a cloud of blinding sights, fierce odors, and tickling sensations. A major distraction (+ 1 to all target numbers) is suffered for every extra success the spell has after being reduced by the Spell Resistance Test. This spell can also deceive technological sensing devices in addition to the target's own senses."
+      },
+      "img": "systems/sr2e/assets/item_icons/spells/chaos.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "86afeefd0a99d0bd",
+      "name": "Personal Combat Sense",
+      "type": "spell",
+      "system": {
+        "category": "detection",
+        "subcategory": "",
+        "type": "physical",
+        "range": "self",
+        "duration": "sustained",
+        "force": 3,
+        "drainCode": "((F / 2) + 1)M",
+        "target": "4",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "This personal form of the combat sense spell affects only the caster."
+      },
+      "img": "systems/sr2e/assets/item_icons/spells/personal-combat-sense.webp",
+      "effects": [
+        {
+          "_id": "b4b1db56cc4bd253",
+          "name": "Personal Combat Sense",
+          "img": "icons/svg/eye.svg",
+          "transfer": false,
+          "disabled": false,
+          "changes": [
+            {
+              "key": "system.dicePools.combat.bonus",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            }
+          ],
+          "description": "<p>Adds dice to the Combat Pool while sustained (SR2E p.84). Edit the value to match the casting result.</p>",
+          "duration": {
+            "startTime": null,
+            "combat": null
+          },
+          "flags": {},
+          "statuses": [],
+          "tint": "#ffffff",
+          "origin": null,
+          "type": "base",
+          "system": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "sort": 0
+        }
+      ],
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "e1d842994318db48",
+      "name": "Treat",
+      "type": "spell",
+      "img": "systems/sr2e/assets/item_icons/spells/heal.webp",
+      "system": {
+        "category": "health",
+        "type": "mana",
+        "range": "touch",
+        "duration": "permanent",
+        "force": 3,
+        "drainCode": "(F / 2)W",
+        "target": "",
+        "damageCode": "",
+        "isAreaEffect": false,
+        "isVoluntary": false,
+        "notes": "SR2E p.155. Target number 8 − subject's Essence. Boxes healed = successes. Treat must be applied within one hour of the injury. A character can only be magically treated or healed once per set of injuries. Type Mana, Range Touch, Permanent. Drain is (F / 2) at the subject's current Wound Level.",
+        "healsDamage": true,
+        "healingTnBase": 8
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.3.7",
+        "createdTime": 1700000000000,
+        "modifiedTime": 1700000000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Security Mage",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!d014b2145550fba0"
+}

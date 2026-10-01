@@ -1,0 +1,148 @@
+{
+  "id": "sr2e-corporate-security",
+  "title": "Shadowrun 2E: Corporate Security Handbook",
+  "description": "Security gear, fat bacteria, the BacteriTech netgun, Ares VTOLs and drones, security personnel and archetypes, the Goose totem and new adept powers from the Corporate Security Handbook (FASA 7118), for the Shadowrun 2nd Edition system. Requires sr2e 0.102.0 or later (astral walls and fat-bacteria zones).",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sr2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.102.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "James Candalino"
+    }
+  ],
+  "esmodules": [
+    "scripts/register-csh.mjs"
+  ],
+  "packs": [
+    {
+      "name": "csh-weapons",
+      "label": "CSH Weapons",
+      "path": "packs/csh-weapons",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-ammo",
+      "label": "CSH Ammunition",
+      "path": "packs/csh-ammo",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-gear",
+      "label": "CSH Security Gear",
+      "path": "packs/csh-gear",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-adept-powers",
+      "label": "CSH Adept Powers",
+      "path": "packs/csh-adept-powers",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-vehicle-mods",
+      "label": "CSH Vehicle Options",
+      "path": "packs/csh-vehicle-mods",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-vehicles",
+      "label": "CSH VTOLs & Drones",
+      "path": "packs/csh-vehicles",
+      "type": "Actor",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-contacts",
+      "label": "CSH Security Personnel",
+      "path": "packs/csh-contacts",
+      "type": "Actor",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-archetypes",
+      "label": "CSH Archetypes",
+      "path": "packs/csh-archetypes",
+      "type": "Actor",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "csh-journals",
+      "label": "CSH GM Reference",
+      "path": "packs/csh-journals",
+      "type": "JournalEntry",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Corporate Security Handbook",
+      "sorting": "m",
+      "packs": [
+        "csh-weapons",
+        "csh-ammo",
+        "csh-gear",
+        "csh-adept-powers",
+        "csh-vehicle-mods",
+        "csh-vehicles",
+        "csh-contacts",
+        "csh-archetypes",
+        "csh-journals"
+      ]
+    }
+  ],
+  "flags": {}
+}

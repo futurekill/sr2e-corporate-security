@@ -1,0 +1,43 @@
+{
+  "_id": "506fe291e95af80c",
+  "name": "Ultraviolet Top/Underbarrel Mount",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "legality": "",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": true,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "cost": 500,
+    "availability": "6/4 days",
+    "streetIndex": 2,
+    "notes": "Ares portable security lighting, long-life lithium batteries. Used with FAB-UV: range 5 m (flashlight, barrel mount) or 35 m (floodlight). In Foundry, switch on the fat-bacteria zone's \"UV lights on\" while it's lit, so the GM can search it (CSH p.103). No effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.102.0",
+    "createdTime": 1790000000000,
+    "modifiedTime": 1790000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!506fe291e95af80c"
+}
