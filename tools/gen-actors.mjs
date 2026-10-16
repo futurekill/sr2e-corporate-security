@@ -5,8 +5,8 @@
 // parenthesised figure is a `mod` on the printed base, Reaction's `mod` lands the
 // derived value (floor((Q+I)/2) of the VALUES) on the printed number, and
 // Initiative dice are the printed total. Starred, decking/rigging-only figures
-// stay in the bio. Spells that exist in the system's core spell compendium are
-// embedded (copied, Force set); the rest are listed in the bio.
+// stay in the bio. Spells in the system's core spell compendium or the Grimoire
+// module's grim-spells pack are embedded (copied, Force set); any other is listed in the bio.
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { idFor, STATS, writePack } from "./lib.mjs";
 
@@ -37,12 +37,24 @@ const skillItem = (owner, name, rating, category) => ({
     concentration: { name: "", rating: 0 }, specialization: { name: "", rating: 0 }, description: "" },
   effects: [], flags: {}, _stats: STATS, folder: null, sort: 0, ownership: { default: 0 }
 });
+// Grimoire II spells, from the sibling sr2e-grimoire module's pack (copied in, so this
+// module doesn't depend on it). The book's "(Extended)" is the Grimoire's "(Extended Range)".
+const GRIM = "../sr2e-grimoire/packs-src/grim-spells";
+const GRIM_SPELLS = new Map();
+if (existsSync(GRIM)) for (const f of readdirSync(GRIM)) {
+  if (!f.endsWith(".json")) continue;
+  const d = JSON.parse(readFileSync(`${GRIM}/${f}`, "utf8"));
+  GRIM_SPELLS.set(d.name.toLowerCase(), d);
+}
 function spellItems(owner, spells = {}) {
   const items = [], missing = [];
   for (const [name, force] of Object.entries(spells)) {
-    // An "(Extended)" variant has its own rules (wider area, different drain), so
-    // the plain core spell is not a stand-in for it: list it for the GM instead.
-    const core = /\(extended\)/i.test(name) ? null : CORE_SPELLS.get(name.toLowerCase());
+    // An "(Extended)" variant has its own rules (wider range, different drain), so
+    // the plain core spell is not a stand-in for it: only the Grimoire's own entry is.
+    const key = name.toLowerCase();
+    const core = /\(extended\)/i.test(name)
+      ? GRIM_SPELLS.get(key.replace("(extended)", "(extended range)"))
+      : CORE_SPELLS.get(key) ?? GRIM_SPELLS.get(key);
     if (!core) { missing.push(`${name} ${force}`); continue; }
     const s = structuredClone(core);
     delete s._key; delete s.folder;
@@ -82,7 +94,7 @@ function contactActor(c, archetype = false) {
     c.pools ? `<p><strong>Dice Pools (printed):</strong> ${esc(c.pools)}</p>` : "",
     list("Physical adept talents", c.powers), list("Bioware", c.bioware), list("Cyberware", c.cyber),
     c.bodyIndex ? `<p><strong>Body Index:</strong> ${c.bodyIndex}</p>` : "",
-    missing.length ? `<p><strong>Grimoire II spells</strong> (not in any compendium yet — add them by hand): ${esc(missing.join(", "))}.</p>` : "",
+    missing.length ? `<p><strong>Spells not in any compendium yet</strong> (add them by hand): ${esc(missing.join(", "))}.</p>` : "",
     c.magicType === "full_magician" ? "<p>The book doesn't print this magician's tradition; it's set to hermetic. Change it if you like.</p>" : "",
     `<p><strong>Gear:</strong> ${esc(c.gear ?? "As appropriate.")}</p>`,
     c.pr ? `<p><strong>Professional Rating:</strong> ${c.pr}${c.pr.includes("-") ? ` (the sheet stores ${lo}; the book prints a range)` : ""}</p>` : "",

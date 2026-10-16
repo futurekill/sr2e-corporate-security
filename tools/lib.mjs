@@ -20,8 +20,11 @@ export function writePack(pack, docs, collection = "items") {
     keep.add(file.split("/").pop());
     // Keep art already wired in (set-art writes it into packs-src), but never let a
     // placeholder icon win over art the generator found on disk.
-    const old = keepImg(file, d.img);
-    if (old.includes("/assets/") && !d.img.includes("/assets/")) d.img = old;
+    // Journals carry no img at all.
+    if (d.img !== undefined) {
+      const old = keepImg(file, d.img);
+      if (old?.includes("/assets/") && !d.img.includes("/assets/")) d.img = old;
+    }
     d._key = `!${collection}!${d._id}`;
     writeFileSync(file, JSON.stringify(d, null, 2) + "\n");
   }

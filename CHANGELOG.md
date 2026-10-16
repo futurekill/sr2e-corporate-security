@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- **The magicians' Grimoire II spells are on their sheets now,** instead of listed in
+  their bios to add by hand: Stun Bolt, Stunball, Wrecker, Influence, Blast Barrier,
+  Bullet Barrier, Spell Barrier and Detect Enemies (Extended Range), at the book's
+  Force. They come from the Grimoire module's new spell pack, copied in, so you don't
+  need that module enabled. Characters already in your world keep their old sheets;
+  import them again from the compendium to get the spells.
+
 ## 0.1.1 — 2026-10-16
 
 ### Fixed

@@ -33,8 +33,10 @@ type module.json declares.
 - **Enhanced Perception** is three tier items, because the system prices a power as
   cost × level.
 - **Personnel and archetypes are `npc` actors** carrying the printed values exactly
-  (Reaction `mod` lands the derived value on the printed number). Spells that exist
-  in the core spell compendium are embedded; Grimoire II spells are listed in the bio.
+  (Reaction `mod` lands the derived value on the printed number). Spells are
+  embedded from the core spell compendium or, for Grimoire II spells, the sibling
+  `../sr2e-grimoire/packs-src/grim-spells` (copied at generation time; no runtime
+  dependency). Anything in neither is listed in the bio.
 - **Facility hardware** (CCSS, control centers, drone storage) is reference text,
   not items.
 

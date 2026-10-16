@@ -22,7 +22,7 @@ A Foundry VTT V13 module bringing *Corporate Security Handbook* (FASA 7118) to t
 - **The FAB-NG netgun** ships with a manual procedure in its notes and the GM journal; automating it is planned for the system.
 - **Gamma-scopolamine's** truth-serum aftermath is a manual GM step.
 - **Facility hardware** (central control systems, drone storage) is reference text in the journals, not items.
-- Spells that aren't in the core spell compendium (the Grimoire II ones) are listed in each magician's bio.
+- The magicians' Grimoire II spells are on their sheets, copied from the Grimoire module's spell pack (you don't need that module enabled).
 
 ## Requirements
 
