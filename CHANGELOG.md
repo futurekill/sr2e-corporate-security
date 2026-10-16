@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+- **Ares ELD-AR Assault Rifle range brackets**: 15/40/100/250 m (assault rifle, SR2E Weapon Range Table p.88), not 25/100/250/500. The module had copied the core compendium's wrong values, fixed in sr2e 0.103.2. Copies already on characters keep the old brackets; drag the weapon in again.
+
 ## 0.1.0 — 2026-10-01
 
 ### Added — the Corporate Security Handbook (FASA 7118)

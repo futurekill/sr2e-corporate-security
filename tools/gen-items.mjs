@@ -12,11 +12,11 @@ const base = (pack, name, type, img, system, extra = {}) => ({
   _stats: STATS, ownership: { default: 0 }, ...extra
 });
 
-// SR2E range bands (core p.94).
+// SR2E Weapon Range Table (core p.88, read from a render).
 const RANGE = {
   lightPistol: { short: 5, medium: 15, long: 30, extreme: 50 },
   smg: { short: 10, medium: 40, long: 80, extreme: 150 },
-  assault: { short: 25, medium: 100, long: 250, extreme: 500 }
+  assault: { short: 15, medium: 40, long: 100, extreme: 250 }
 };
 const NOT_PRINTED = "Legality is not printed in the catalog.";
 
