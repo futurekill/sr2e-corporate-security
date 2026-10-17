@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+### Changed
+- **FAB-NG netguns are automated** with sr2e 0.105 or later: a hit posts a net card the target resists from, and a net that holds pins the astral form until it escapes (token HUD). The item notes and the Magical Security journal say how.
+
 ### Added
 - **The magicians' Grimoire II spells are on their sheets now,** instead of listed in
   their bios to add by hand: Stun Bolt, Stunball, Wrecker, Influence, Blast Barrier,
