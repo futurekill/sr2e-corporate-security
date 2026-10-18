@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+- **The Executive Protection Mage's Spell Barrier drains ((F / 2) + 1)M,** the Grimoire's
+  corrected value. A copy already in your world keeps the old one; import it again.
+
 ## 0.2.0 — 2026-10-16
 
 ### Changed
