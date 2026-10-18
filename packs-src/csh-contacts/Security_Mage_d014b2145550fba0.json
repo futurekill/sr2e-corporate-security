@@ -473,13 +473,13 @@
         "type": "mana",
         "range": "los",
         "duration": "instant",
+        "force": 3,
         "drainCode": "((F / 2) - 1)S",
         "target": "Willpower (R)",
         "damageCode": "S",
         "isAreaEffect": false,
         "isVoluntary": false,
-        "notes": "A bolt of magical energy that causes Stun damage to a single target. Grimoire (2nd ed.) p.127.",
-        "force": 3
+        "notes": "A bolt of magical energy that does Stun damage to a single target. Drain from the entry, (F / 2) - 1, Serious; the Table of Spells (p.133) prints Deadly. Grimoire (2nd ed.) p.127."
       },
       "effects": [],
       "flags": {},
@@ -487,7 +487,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
@@ -510,13 +510,13 @@
         "type": "mana",
         "range": "los",
         "duration": "instant",
+        "force": 3,
         "drainCode": "((F / 2) - 1)D",
         "target": "Willpower (R)",
         "damageCode": "S",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "An area-effect spell that causes Stun damage. (The entry's second clause reads \"to a single target\", a slip: its first words and its name make it area-effect.) Type printed \"Maria\", a typo for Mana. Grimoire (2nd ed.) p.127.",
-        "force": 3
+        "notes": "An area-effect spell that does Stun damage. (The entry's \"to a single target\" is a slip: its name and its first words make it area-effect.) Type printed \"Maria\", a typo for Mana. Grimoire (2nd ed.) p.127."
       },
       "effects": [],
       "flags": {},
@@ -524,7 +524,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
@@ -585,13 +585,13 @@
         "type": "physical",
         "range": "los",
         "duration": "instant",
+        "force": 3,
         "drainCode": "(F / 2)S",
         "target": "Special: Object Resistance Table",
         "damageCode": "S",
         "isAreaEffect": false,
         "isVoluntary": false,
-        "notes": "Works like the ram spell (SR2 p.151), but affects only a single vehicle (Restricted Target: Vehicles). Grimoire (2nd ed.) p.127.",
-        "force": 3
+        "notes": "Like the ram spell (SR2 p.151), but affects only a single vehicle (Restricted Target: vehicles). Grimoire (2nd ed.) p.127."
       },
       "effects": [],
       "flags": {},
@@ -599,7 +599,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,

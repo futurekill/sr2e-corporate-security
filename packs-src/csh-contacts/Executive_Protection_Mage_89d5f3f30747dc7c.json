@@ -360,13 +360,13 @@
         "type": "physical",
         "range": "los",
         "duration": "sustained",
+        "force": 3,
         "drainCode": "((F / 2) + 2)M",
         "target": "6",
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like the physical barrier spell (SR2 p.158), but protects against blast from grenades and similar weapons. Its Barrier Rating equals the spell's Force; the Impact Armor Rating may be added to it. The personal form of this spell has a Drain Code of ((F / 2) + 2)L. Grimoire (2nd ed.) p.131.",
-        "force": 3
+        "notes": "Like physical barrier (SR2 p.158), but protects against blast from grenades and similar weapons. Barrier Rating equals the Force; Impact armour may be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131."
       },
       "effects": [],
       "flags": {},
@@ -374,7 +374,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
@@ -397,13 +397,13 @@
         "type": "physical",
         "range": "los",
         "duration": "sustained",
+        "force": 3,
         "drainCode": "((F / 2) + 2)M",
         "target": "6",
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like the physical barrier spell (SR2 p.158), but protects against bullets and other ballistic weapons. Its Barrier Rating equals the spell's Force; the Ballistic Armor Rating can be added to it. The personal form of this spell has a Drain Code of ((F / 2) + 2)L. Grimoire (2nd ed.) p.131.",
-        "force": 3
+        "notes": "Like physical barrier (SR2 p.158), but protects against bullets and other ballistic weapons. Barrier Rating equals the Force; Ballistic armour can be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131."
       },
       "effects": [],
       "flags": {},
@@ -411,7 +411,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
@@ -510,13 +510,13 @@
         "type": "mana",
         "range": "limited",
         "duration": "sustained",
+        "force": 3,
         "drainCode": "(F / 2)S",
         "target": "4",
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": true,
-        "notes": "Works like detect enemies (SR2 p.153), with the Extended Range option. Range is printed \"Extended\": make the separate Force Success Test used for limited range, and multiply its successes by ten times the magician's Magic to get the range in metres (Grimoire p.123). Grimoire (2nd ed.) p.128.",
-        "force": 3
+        "notes": "Detect enemies (SR2 p.153) with the Extended Range option. Range is printed \"Extended\": the successes on the separate Force Success Test used for limited range, multiplied by ten times the magician's Magic, in metres (Grimoire p.123). Grimoire (2nd ed.) p.128."
       },
       "effects": [],
       "flags": {},
@@ -524,7 +524,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
@@ -583,13 +583,13 @@
         "type": "mana",
         "range": "los",
         "duration": "sustained",
-        "drainCode": "((F / 2) + 2)M",
+        "force": 3,
+        "drainCode": "((F / 2) + 1)M",
         "target": "6",
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like the mana barrier spell (SR2 p.158), but protects against spells. The personal form of this spell has a Drain Code of ((F / 2) + 2)L. Grimoire (2nd ed.) p.132.",
-        "force": 3
+        "notes": "Like mana barrier (SR2 p.158), but protects against spells. The personal form drains ((F / 2) + 2)L. Drain from the Table of Spells (p.134), ((F / 2) + 1)M; the entry prints ((F / 2) + 2)M, but the anti-spell barrier is designed to drain less (p.125). Grimoire (2nd ed.) p.132."
       },
       "effects": [],
       "flags": {},
@@ -597,7 +597,7 @@
       "_stats": {
         "coreVersion": "13.351",
         "systemId": "sr2e",
-        "systemVersion": "0.104.5",
+        "systemVersion": "0.105.0",
         "createdTime": 1792000000000,
         "modifiedTime": 1792000000000,
         "lastModifiedBy": null,
