@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.1 — 2026-10-19
 
 ### Fixed
 - **The Executive Protection Mage's Spell Barrier drains ((F / 2) + 1)M,** the Grimoire's
