@@ -157,7 +157,7 @@ const GAMMA = base("csh-gear", "Gamma-Scopolamine", "gear", "icons/svg/pill.svg"
 
 const IBS_CYBER = base("csh-gear", "Individualized Biometric Safety (Cyber Modification)", "cyberware", "icons/svg/item-bag.svg", {
   location: "bodyware", grade: "standard", essenceCost: 0, rating: 1, cost: 800, availability: "3/36 hrs", streetIndex: "1.5",
-  legality: "", installed: false, notes: `The IBS for owners with a cyberarm or cyberhand: mounted in the cyberhand, it holds a pass-chip that links to the weapon's IBS. No Essence cost is printed (it modifies an existing cyberhand). Corporate Security Handbook p.71.`
+  legality: "", installed: true, notes: `The IBS for owners with a cyberarm or cyberhand: mounted in the cyberhand, it holds a pass-chip that links to the weapon's IBS. No Essence cost is printed (it modifies an existing cyberhand). Corporate Security Handbook p.71.`
 });
 
 /* ── Adept powers (p.104) ──────────────────────────────────────────────────── */

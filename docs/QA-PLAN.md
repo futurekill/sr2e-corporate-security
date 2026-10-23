@@ -20,3 +20,6 @@
 - [ ] **FAB-NG netgun:** an attack posts the usual cards; following the journal
       procedure by hand works.
 - [ ] **Vehicles:** all six vehicle sheets render, including the Sentinel at speed 0.
+
+## Implants arrive installed (2026-10-23)
+- [ ] In play (not character creation), drag one of this module's cyberware items onto a character: the Buy dialog shows the **Cybersurgery** section and Essence drops once it's bought.

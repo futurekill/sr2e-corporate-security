@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.2 — 2026-10-23
+
+### Fixed
+- **Implants arrive installed, so buying them in play runs the cybersurgery.** The IBS cyberhand mount were
+  stored as uninstalled spares, so the Buy dialog skipped the surgery (sr2e 0.108+) and the implant
+  didn't count (Essence) until someone ticked Installed. A spare is still possible:
+  untick Installed. Re-import an item to pick this up.
+
 ## 0.2.1 — 2026-10-19
 
 ### Fixed

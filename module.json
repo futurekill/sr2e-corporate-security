@@ -2,7 +2,7 @@
   "id": "sr2e-corporate-security",
   "title": "Shadowrun 2E: Corporate Security Handbook",
   "description": "Security gear, fat bacteria, the BacteriTech netgun, Ares VTOLs and drones, security personnel and archetypes, the Goose totem and new adept powers from the Corporate Security Handbook (FASA 7118), for the Shadowrun 2nd Edition system. Requires sr2e 0.102.0 or later (astral walls and fat-bacteria zones).",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
