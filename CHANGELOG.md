@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.3 — 2026-11-07
+
+### Fixed
+- The TR-55 factory options (pp.86–88) are bought in ¥, so the SR2E Vehicle Workshop (system 0.143.0) no longer offers
+  them as free design options.
+
 ## 0.2.2 — 2026-10-23
 
 ### Fixed

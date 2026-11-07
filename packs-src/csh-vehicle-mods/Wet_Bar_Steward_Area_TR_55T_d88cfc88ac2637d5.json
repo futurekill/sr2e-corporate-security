@@ -17,7 +17,8 @@
     "loadPerLevel": 0,
     "loadTable": [],
     "installed": false,
-    "notes": "TR-55T Traveler option: 2,500¥, 5 CF. Corporate Security Handbook p.86."
+    "notes": "TR-55T Traveler option: 2,500¥, 5 CF. Corporate Security Handbook p.86.",
+    "designable": false
   },
   "effects": [],
   "flags": {},

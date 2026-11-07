@@ -177,7 +177,8 @@ const POWERS = [
 /* ── Vehicle options (p.86–88) ─────────────────────────────────────────────── */
 const mod = (name, cost, cf, note) => base("csh-vehicle-mods", name, "vehicle_mod", "icons/svg/upgrade.svg", {
   modType: "general", rating: 0, cost, designPoints: 0, dpPerLevel: 0, dpTable: [], cfConsumed: cf, cfPerLevel: 0, cfTable: [],
-  loadReduction: 0, loadPerLevel: 0, loadTable: [], installed: false, notes: note
+  loadReduction: 0, loadPerLevel: 0, loadTable: [], installed: false, notes: note,
+  designable: false   // a model's factory option bought in ¥, not a Rigger 2 design option
 });
 const MODS = [
   mod("Wet Bar/Steward Area (TR-55T)", 2500, 5, "TR-55T Traveler option: 2,500¥, 5 CF. Corporate Security Handbook p.86."),

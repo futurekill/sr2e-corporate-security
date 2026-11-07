@@ -17,7 +17,8 @@
     "loadPerLevel": 0,
     "loadTable": [],
     "installed": false,
-    "notes": "TR-55E Executive option: 10,000¥, 6 CF. Corporate Security Handbook p.87."
+    "notes": "TR-55E Executive option: 10,000¥, 6 CF. Corporate Security Handbook p.87.",
+    "designable": false
   },
   "effects": [],
   "flags": {},
