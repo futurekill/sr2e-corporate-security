@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.4 — 2026-11-11
+
+### Fixed
+- **Vehicle stats audit** (system docs/VEHICLE-AUDIT.md): the Guardian drone's cargo no longer holds its Store size
+  (20 CF is the space needed to carry it); the TR-55s' autopilot is in Autonav.
+
 ## 0.2.3 — 2026-11-07
 
 ### Fixed

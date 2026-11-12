@@ -7,7 +7,7 @@
     "skill": "",
     "acceleration": 0,
     "sensor": 0,
-    "autonav": 0,
+    "autonav": 3,
     "conditionMonitor": {
       "value": 0,
       "max": 10
@@ -18,7 +18,7 @@
     "body": 3,
     "armor": 0,
     "signature": 3,
-    "pilot": 3,
+    "pilot": 0,
     "seating": "Twin bucket seats + 9 executive bucket seats",
     "cargo": 20,
     "cost": 650000,

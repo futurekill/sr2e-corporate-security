@@ -20,10 +20,10 @@
     "signature": 6,
     "pilot": 3,
     "seating": "0",
-    "cargo": 20,
+    "cargo": 0,
     "cost": 75000,
     "availability": "8/8 days",
-    "notes": "<p>Free-ranging vectored-thrust Sentinel, small enough for indoors and sturdy enough for outdoors. Handling 4/6 (the sheet holds the first figure; the second is printed as given). Speed 30/60 (cruise/maximum). Store 20 CF. Economy 5 km per PF; Power 30 PF. Operational duration: battery, 2 hours. Setup/breakdown 3 minutes. Sensor package Security I (4). Street Index 2. Its micro-turret accepts any Ares Sentinel weapons pod, with rear attachments for external tanks and compressed air for the Ares Cascade™ delivery system (built-in storage for two 100-shot canisters, DMSO gel and the chemical reserve). An additional 3 CF is available for vehicle control gear or other electronic options.</p><p><em>Corporate Security Handbook p.91.</em></p>"
+    "notes": "<p>Free-ranging vectored-thrust Sentinel, small enough for indoors and sturdy enough for outdoors. Handling 4/6 (the sheet holds the first figure; the second is printed as given). Speed 30/60 (cruise/maximum). Store 20 CF (the cargo space needed to carry it aboard another vehicle; it has no cargo of its own). Economy 5 km per PF; Power 30 PF. Operational duration: battery, 2 hours. Setup/breakdown 3 minutes. Sensor package Security I (4). Street Index 2. Its micro-turret accepts any Ares Sentinel weapons pod, with rear attachments for external tanks and compressed air for the Ares Cascade™ delivery system (built-in storage for two 100-shot canisters, DMSO gel and the chemical reserve). An additional 3 CF is available for vehicle control gear or other electronic options.</p><p><em>Corporate Security Handbook p.91.</em></p>"
   },
   "items": [],
   "effects": [],
