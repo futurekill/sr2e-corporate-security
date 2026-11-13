@@ -8,7 +8,7 @@ world whether to use it. It ships the book's game content as compendia: the
 catalog's gear, weapons, drugs and vehicles, the security contacts and archetypes,
 the Goose totem and the new adept powers, and GM reference journals. Its astral
 mechanics (astral walls, projection forms, fat-bacteria zones) already live in the
-system (unreleased; ships as sr2e 0.102.0, docs/PLAN-astral-barriers.md); the
+system (unreleased; ships as sr2e 0.102.0, docs/archive/plans/PLAN-astral-barriers.md); the
 module supplies the content those mechanics act on.
 
 **Release order:** sr2e 0.102.0 first (astral + contact portraits, already on

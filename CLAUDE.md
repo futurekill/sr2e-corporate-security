@@ -3,8 +3,8 @@
 A FoundryVTT **V13** content module packaging the *Corporate Security Handbook*
 (FASA 7118) for the **sr2e** system. Optional by design: a GM enables it per world.
 Requires sr2e ≥ 0.102.0, which ships the mechanics this content uses (astral walls,
-projection forms, fat-bacteria zones; see the system's docs/PLAN-astral-barriers.md).
-The approved plan is docs/PLAN.md (4 Codex rounds → APPROVED).
+projection forms, fat-bacteria zones; see the system's docs/archive/plans/PLAN-astral-barriers.md).
+The approved plan is docs/archive/plans/PLAN.md (4 Codex rounds → APPROVED).
 
 ## Source
 `../Shadowrun 2e - Corporate Security Handbook {FASA7118}.pdf` is **image-only**
