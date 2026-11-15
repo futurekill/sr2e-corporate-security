@@ -22,8 +22,8 @@
     "streetIndex": 1.5,
     "notes": "Rating 10; 250¥ × Rating. Top-level security. Above Type I they carry a lithium backup battery good for a year (Type I: five years). A PANICBUTTON™ hookup is available for all but Type I. Bypass rules: core SR2 and CSH p.100. Legality is not printed in the catalog. Corporate Security Handbook p.73.",
     "citation": {
-      "book": "sr2",
-      "page": "100"
+      "book": "csh",
+      "page": "73"
     }
   },
   "effects": [],

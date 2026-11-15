@@ -26,7 +26,7 @@
     "notes": "<p>Immobile zone-control drone (\"drone\" in name only — a gun emplacement run through a drone interface). Speed N/A; Store N/A; Economy N/A. Power 2 PF. Operational duration: building supplied/unlimited; backup battery 2 hours. Setup/breakdown N/A. Sensor package Security II (5). Integrated thermographic and pulse-radar security sensors; compatible with Ares Security International's Fiber-Optic Observation Network, with one optical port; remote control standard, direct neural control optional; accepts closed-circuit simsense (CCSS) protocols. Indoor model (ceiling-mounted): badge proximity interrogation system (CSH p.30), Neuro-Stun VII gas delivery, and a firmpoint for any Ares Sentinel weapons pod; 6 points of recoil compensation. Fully weatherproofed outdoor model (platform or pole): +10,000¥, normally without the gas system. Not generally available on the street.</p><p><em>Corporate Security Handbook p.89.</em></p>",
     "citation": {
       "book": "csh",
-      "page": "30"
+      "page": "89"
     }
   },
   "items": [],
