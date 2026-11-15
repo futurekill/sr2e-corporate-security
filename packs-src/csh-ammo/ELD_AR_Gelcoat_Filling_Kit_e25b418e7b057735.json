@@ -12,7 +12,11 @@
     "ammoType": "regular",
     "cost": 300,
     "streetIndex": 2,
-    "notes": "Kit for making ELD-AR gelcoat rounds with special fillings, 300¥. Such rounds may cause damage based on their contents (the GM's call by filling). Corporate Security Handbook p.69."
+    "notes": "Kit for making ELD-AR gelcoat rounds with special fillings, 300¥. Such rounds may cause damage based on their contents (the GM's call by filling). Corporate Security Handbook p.69.",
+    "citation": {
+      "book": "csh",
+      "page": "69"
+    }
   },
   "effects": [],
   "flags": {},

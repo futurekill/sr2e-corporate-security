@@ -37,7 +37,11 @@
     "cost": 1800,
     "availability": "12/14 days",
     "streetIndex": 2,
-    "notes": "Chemical-delivery rifle with a selectable nozzle. STREAM mode: SMG ranges (as set here). SPRAY mode: treat as a shotgun with a fixed choke of 2 (SR2 p.95 spread patterns), with Power reduction applied to the chemical. Ammo 60 as printed in the stat line; the footnote says the DMSO gel reservoir \"is good for 100 shots\" — the book disagrees with itself, the stat line is used. A second clip holds the chemical; extra reservoir clips 20¥; the stock's CO₂ canister recharges for 50¥. May be drone-mounted; accepts top- and underbarrel accessories, not barrel. Legality is not printed in the catalog. Corporate Security Handbook p.68."
+    "notes": "Chemical-delivery rifle with a selectable nozzle. STREAM mode: SMG ranges (as set here). SPRAY mode: treat as a shotgun with a fixed choke of 2 (SR2 p.95 spread patterns), with Power reduction applied to the chemical. Ammo 60 as printed in the stat line; the footnote says the DMSO gel reservoir \"is good for 100 shots\" — the book disagrees with itself, the stat line is used. A second clip holds the chemical; extra reservoir clips 20¥; the stock's CO₂ canister recharges for 50¥. May be drone-mounted; accepts top- and underbarrel accessories, not barrel. Legality is not printed in the catalog. Corporate Security Handbook p.68.",
+    "citation": {
+      "book": "sr2",
+      "page": "95"
+    }
   },
   "effects": [],
   "flags": {},

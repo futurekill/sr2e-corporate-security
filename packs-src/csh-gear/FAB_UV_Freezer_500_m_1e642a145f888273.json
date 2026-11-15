@@ -19,7 +19,11 @@
     "cost": 50000,
     "availability": "GM's discretion",
     "streetIndex": 0,
-    "notes": "Sub-zero freezer storage for 500 m³ of FAB-UV aerosol until needed. Corporate Security Handbook p.83."
+    "notes": "Sub-zero freezer storage for 500 m³ of FAB-UV aerosol until needed. Corporate Security Handbook p.83.",
+    "citation": {
+      "book": "csh",
+      "page": "83"
+    }
   },
   "effects": [],
   "flags": {},

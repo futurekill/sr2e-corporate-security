@@ -19,7 +19,11 @@
     "cost": 3500,
     "availability": "6/1 week",
     "streetIndex": 2,
-    "notes": "Modular weapon unit for Ares Sentinel and Guardian drones, which recalibrate their inertial compensators and targeting for each weapon automatically. Installed: Ares Viper Slivergun (75) and Narcoject Pistol (20). Removing and installing a pod are each a Complex Action (two to change one). Only Ares Sentinel and Guardian drones accept pods without major hardware and firmware work. Add the weapons themselves to the drone from the weapon compendia. Legality is not printed in the catalog. Corporate Security Handbook p.92."
+    "notes": "Modular weapon unit for Ares Sentinel and Guardian drones, which recalibrate their inertial compensators and targeting for each weapon automatically. Installed: Ares Viper Slivergun (75) and Narcoject Pistol (20). Removing and installing a pod are each a Complex Action (two to change one). Only Ares Sentinel and Guardian drones accept pods without major hardware and firmware work. Add the weapons themselves to the drone from the weapon compendia. Legality is not printed in the catalog. Corporate Security Handbook p.92.",
+    "citation": {
+      "book": "csh",
+      "page": "92"
+    }
   },
   "effects": [],
   "flags": {},

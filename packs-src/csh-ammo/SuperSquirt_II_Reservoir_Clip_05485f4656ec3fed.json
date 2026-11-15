@@ -12,7 +12,11 @@
     "ammoType": "cartridge",
     "cost": 10,
     "streetIndex": 1.5,
-    "notes": "Extra DMSO gel reservoir clip for the Ares SuperSquirt II (20 shots), 10¥. Corporate Security Handbook p.67."
+    "notes": "Extra DMSO gel reservoir clip for the Ares SuperSquirt II (20 shots), 10¥. Corporate Security Handbook p.67.",
+    "citation": {
+      "book": "csh",
+      "page": "67"
+    }
   },
   "effects": [],
   "flags": {},

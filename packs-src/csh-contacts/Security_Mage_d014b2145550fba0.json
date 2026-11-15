@@ -479,7 +479,11 @@
         "damageCode": "S",
         "isAreaEffect": false,
         "isVoluntary": false,
-        "notes": "A bolt of magical energy that does Stun damage to a single target. Drain from the entry, (F / 2) - 1, Serious; the Table of Spells (p.133) prints Deadly. Grimoire (2nd ed.) p.127."
+        "notes": "A bolt of magical energy that does Stun damage to a single target. Drain from the entry, (F / 2) - 1, Serious; the Table of Spells (p.133) prints Deadly. Grimoire (2nd ed.) p.127.",
+        "citation": {
+          "book": "csh",
+          "page": "133"
+        }
       },
       "effects": [],
       "flags": {},
@@ -516,7 +520,11 @@
         "damageCode": "S",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "An area-effect spell that does Stun damage. (The entry's \"to a single target\" is a slip: its name and its first words make it area-effect.) Type printed \"Maria\", a typo for Mana. Grimoire (2nd ed.) p.127."
+        "notes": "An area-effect spell that does Stun damage. (The entry's \"to a single target\" is a slip: its name and its first words make it area-effect.) Type printed \"Maria\", a typo for Mana. Grimoire (2nd ed.) p.127.",
+        "citation": {
+          "book": "grim",
+          "page": "127"
+        }
       },
       "effects": [],
       "flags": {},
@@ -554,7 +562,11 @@
         "isVoluntary": false,
         "notes": "SR2E p.155. Target number 8 − subject's Essence. Boxes healed = successes. Treat must be applied within one hour of the injury. A character can only be magically treated or healed once per set of injuries. Type Mana, Range Touch, Permanent. Drain is (F / 2) at the subject's current Wound Level.",
         "healsDamage": true,
-        "healingTnBase": 8
+        "healingTnBase": 8,
+        "citation": {
+          "book": "sr2",
+          "page": "155"
+        }
       },
       "effects": [],
       "flags": {},
@@ -591,7 +603,11 @@
         "damageCode": "S",
         "isAreaEffect": false,
         "isVoluntary": false,
-        "notes": "Like the ram spell (SR2 p.151), but affects only a single vehicle (Restricted Target: vehicles). Grimoire (2nd ed.) p.127."
+        "notes": "Like the ram spell (SR2 p.151), but affects only a single vehicle (Restricted Target: vehicles). Grimoire (2nd ed.) p.127.",
+        "citation": {
+          "book": "sr2",
+          "page": "151"
+        }
       },
       "effects": [],
       "flags": {},

@@ -19,7 +19,11 @@
     "cost": 350,
     "availability": "5/48 hrs",
     "streetIndex": 2,
-    "notes": "Ares portable security lighting, long-life lithium batteries. Lets thermographic vision (natural or enhanced) see clearly to 20 m (flashlight, barrel mount) or 100 m (floodlight); no effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72."
+    "notes": "Ares portable security lighting, long-life lithium batteries. Lets thermographic vision (natural or enhanced) see clearly to 20 m (flashlight, barrel mount) or 100 m (floodlight); no effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72.",
+    "citation": {
+      "book": "csh",
+      "page": "72"
+    }
   },
   "effects": [],
   "flags": {},

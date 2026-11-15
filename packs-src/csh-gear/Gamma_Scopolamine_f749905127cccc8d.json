@@ -19,7 +19,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "<p>Neuromuscular blocking agent derived from the nightshade toxin (C₁₇H₂₁NO₅); it blocks the uptake of acetylcholine. Rating 10D Stun, Speed Immediate, Vector Injected, 300¥/dose, Availability 8/2 weeks, Street Index 3. Legality is not printed in the catalog.</p>\n<p>It takes effect immediately: dizziness, dilated pupils, loss of speech, delirium and paralysis. A Deadly stun wound means full paralysis. For lesser damage, apply an additional +2 to all the modifiers for that stun wound (a Serious stun wound: +5 to all target numbers, −5 to Initiative). The full effects last one hour.</p>\n<p><strong>After the hour</strong> the residue acts as a truth serum for an additional hour: Willpower −2 (to a minimum of 1). The system applies a drug's effects at dosing, so this is a manual step — when the paralysis hour ends, the GM adds a Willpower −2 effect to the actor and removes it an hour later.</p>\n<p>For every 3 doses ordered, add 1 to the Availability and 1 day to its base time. Corporate Security Handbook p.81.</p>"
+    "notes": "<p>Neuromuscular blocking agent derived from the nightshade toxin (C₁₇H₂₁NO₅); it blocks the uptake of acetylcholine. Rating 10D Stun, Speed Immediate, Vector Injected, 300¥/dose, Availability 8/2 weeks, Street Index 3. Legality is not printed in the catalog.</p>\n<p>It takes effect immediately: dizziness, dilated pupils, loss of speech, delirium and paralysis. A Deadly stun wound means full paralysis. For lesser damage, apply an additional +2 to all the modifiers for that stun wound (a Serious stun wound: +5 to all target numbers, −5 to Initiative). The full effects last one hour.</p>\n<p><strong>After the hour</strong> the residue acts as a truth serum for an additional hour: Willpower −2 (to a minimum of 1). The system applies a drug's effects at dosing, so this is a manual step — when the paralysis hour ends, the GM adds a Willpower −2 effect to the actor and removes it an hour later.</p>\n<p>For every 3 doses ordered, add 1 to the Availability and 1 day to its base time. Corporate Security Handbook p.81.</p>",
+    "citation": {
+      "book": "csh",
+      "page": "81"
+    }
   },
   "effects": [],
   "flags": {

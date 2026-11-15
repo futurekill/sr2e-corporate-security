@@ -12,7 +12,11 @@
     "ammoType": "net",
     "cost": 1500,
     "streetIndex": 5,
-    "notes": "The self-contained FAB-1 feeding canister for 4 large nets. Corporate Security Handbook p.70."
+    "notes": "The self-contained FAB-1 feeding canister for 4 large nets. Corporate Security Handbook p.70.",
+    "citation": {
+      "book": "csh",
+      "page": "70"
+    }
   },
   "effects": [],
   "flags": {},

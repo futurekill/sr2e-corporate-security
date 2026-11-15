@@ -23,7 +23,11 @@
     "cargo": 30,
     "cost": 500000,
     "availability": "50/25 days",
-    "notes": "<p>Tilt-wing VTOL, the most popular TR-55: smooth, even lift and descent for short-distance commuters, five more passengers than its rivals. Speed 170/350 (cruise/maximum; the sheet holds the cruise figure). Acceleration is not printed. Access 1 + 1 standard. Economy 1.2 km per liter (VTOL: 0.75 km/liter). Fuel IC/1,600 liters. Storage 10 CF storage + 20 CF cargo. Landing/Takeoff VTOL/STOL. Street Index 2. Divide the Availability target number by 3 (round up) for the mercenary contact known as the Dealer (Fields of Fire p.81). Options (CSH Vehicle Options pack): Rigger Control System 10,000¥ (6 CF), Wet Bar/Steward Area 2,500¥ (5 CF).</p><p><em>Corporate Security Handbook p.86.</em></p>"
+    "notes": "<p>Tilt-wing VTOL, the most popular TR-55: smooth, even lift and descent for short-distance commuters, five more passengers than its rivals. Speed 170/350 (cruise/maximum; the sheet holds the cruise figure). Acceleration is not printed. Access 1 + 1 standard. Economy 1.2 km per liter (VTOL: 0.75 km/liter). Fuel IC/1,600 liters. Storage 10 CF storage + 20 CF cargo. Landing/Takeoff VTOL/STOL. Street Index 2. Divide the Availability target number by 3 (round up) for the mercenary contact known as the Dealer (Fields of Fire p.81). Options (CSH Vehicle Options pack): Rigger Control System 10,000¥ (6 CF), Wet Bar/Steward Area 2,500¥ (5 CF).</p><p><em>Corporate Security Handbook p.86.</em></p>",
+    "citation": {
+      "book": "ff",
+      "page": "81"
+    }
   },
   "items": [],
   "effects": [],

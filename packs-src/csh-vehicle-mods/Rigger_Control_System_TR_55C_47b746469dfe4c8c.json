@@ -18,7 +18,11 @@
     "loadTable": [],
     "installed": false,
     "notes": "TR-55C Cargoliner option: 12,000¥, 6 CF. Corporate Security Handbook p.88.",
-    "designable": false
+    "designable": false,
+    "citation": {
+      "book": "csh",
+      "page": "88"
+    }
   },
   "effects": [],
   "flags": {},

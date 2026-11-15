@@ -19,7 +19,11 @@
     "cost": 500,
     "availability": "6/4 days",
     "streetIndex": 2,
-    "notes": "Ares portable security lighting, long-life lithium batteries. Used with FAB-UV: range 5 m (flashlight, barrel mount) or 35 m (floodlight). In Foundry, switch on the fat-bacteria zone's \"UV lights on\" while it's lit, so the GM can search it (CSH p.103). No effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72."
+    "notes": "Ares portable security lighting, long-life lithium batteries. Used with FAB-UV: range 5 m (flashlight, barrel mount) or 35 m (floodlight). In Foundry, switch on the fat-bacteria zone's \"UV lights on\" while it's lit, so the GM can search it (CSH p.103). No effect on normal vision. Legality is not printed in the catalog. Corporate Security Handbook p.72.",
+    "citation": {
+      "book": "csh",
+      "page": "103"
+    }
   },
   "effects": [],
   "flags": {},

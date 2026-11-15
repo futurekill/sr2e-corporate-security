@@ -18,7 +18,11 @@
     "loadTable": [],
     "installed": false,
     "notes": "TR-55E Executive option: 5,000¥, 2 CF. Corporate Security Handbook p.87.",
-    "designable": false
+    "designable": false,
+    "citation": {
+      "book": "csh",
+      "page": "87"
+    }
   },
   "effects": [],
   "flags": {},

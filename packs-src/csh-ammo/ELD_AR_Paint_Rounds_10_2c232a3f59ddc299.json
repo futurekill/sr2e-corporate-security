@@ -12,7 +12,11 @@
     "ammoType": "regular",
     "cost": 5,
     "streetIndex": 2,
-    "notes": "Gel-coated rounds filled with biodegradable paint or another marking agent, 5¥ per package of 10. Damage 4L Stun. Corporate Security Handbook p.69."
+    "notes": "Gel-coated rounds filled with biodegradable paint or another marking agent, 5¥ per package of 10. Damage 4L Stun. Corporate Security Handbook p.69.",
+    "citation": {
+      "book": "csh",
+      "page": "69"
+    }
   },
   "effects": [],
   "flags": {},

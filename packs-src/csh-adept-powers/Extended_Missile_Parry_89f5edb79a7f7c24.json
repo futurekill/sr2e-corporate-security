@@ -14,7 +14,11 @@
     "pointCost": 1.5,
     "maxLevel": 1,
     "description": "<p>Like Missile Parry (Grimoire II p.34), but the adept can extend it to an individual they are protecting, up to 3 meters away.</p>",
-    "notes": "Cost 1.5 points. For executive-protection adepts. Corporate Security Handbook p.104."
+    "notes": "Cost 1.5 points. For executive-protection adepts. Corporate Security Handbook p.104.",
+    "citation": {
+      "book": "csh",
+      "page": "104"
+    }
   },
   "effects": [],
   "flags": {},

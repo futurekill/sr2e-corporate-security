@@ -19,7 +19,11 @@
     "cost": 200000,
     "availability": "GM's discretion",
     "streetIndex": 0,
-    "notes": "<p>Fat bacteria, strain 1 (BacteriTech™): 5,000 m³ of genetically engineered, massive bacteria. Pumped into an enclosed space until the air is a \"soup\", it stops astral movement as an ivy-covered wall does. Shipped in coolant/feeding vats; once out of the vat FAB-1 begins to die and can't be reused. Not generally available on the street (Availability at the GM's discretion; no Street Index printed).</p><p><strong>In Foundry:</strong> draw a Region over the flooded space and add the system's <em>Fat bacteria zone</em> behaviour (FAB-1): astral forms inside are held to normal astral speed and astral perception there is +4 (CSH p.103). For FAB-filled walls, set the walls' Astral barrier to \"Fat bacteria\".</p><p>Corporate Security Handbook p.82.</p>"
+    "notes": "<p>Fat bacteria, strain 1 (BacteriTech™): 5,000 m³ of genetically engineered, massive bacteria. Pumped into an enclosed space until the air is a \"soup\", it stops astral movement as an ivy-covered wall does. Shipped in coolant/feeding vats; once out of the vat FAB-1 begins to die and can't be reused. Not generally available on the street (Availability at the GM's discretion; no Street Index printed).</p><p><strong>In Foundry:</strong> draw a Region over the flooded space and add the system's <em>Fat bacteria zone</em> behaviour (FAB-1): astral forms inside are held to normal astral speed and astral perception there is +4 (CSH p.103). For FAB-filled walls, set the walls' Astral barrier to \"Fat bacteria\".</p><p>Corporate Security Handbook p.82.</p>",
+    "citation": {
+      "book": "csh",
+      "page": "103"
+    }
   },
   "effects": [],
   "flags": {},

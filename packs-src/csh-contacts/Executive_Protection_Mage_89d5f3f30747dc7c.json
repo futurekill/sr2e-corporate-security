@@ -366,7 +366,11 @@
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like physical barrier (SR2 p.158), but protects against blast from grenades and similar weapons. Barrier Rating equals the Force; Impact armour may be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131."
+        "notes": "Like physical barrier (SR2 p.158), but protects against blast from grenades and similar weapons. Barrier Rating equals the Force; Impact armour may be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131.",
+        "citation": {
+          "book": "sr2",
+          "page": "158"
+        }
       },
       "effects": [],
       "flags": {},
@@ -403,7 +407,11 @@
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like physical barrier (SR2 p.158), but protects against bullets and other ballistic weapons. Barrier Rating equals the Force; Ballistic armour can be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131."
+        "notes": "Like physical barrier (SR2 p.158), but protects against bullets and other ballistic weapons. Barrier Rating equals the Force; Ballistic armour can be added. The personal form drains ((F / 2) + 2)L. Grimoire (2nd ed.) p.131.",
+        "citation": {
+          "book": "sr2",
+          "page": "158"
+        }
       },
       "effects": [],
       "flags": {},
@@ -516,7 +524,11 @@
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": true,
-        "notes": "Detect enemies (SR2 p.153) with the Extended Range option. Range is printed \"Extended\": the successes on the separate Force Success Test used for limited range, multiplied by ten times the magician's Magic, in metres (Grimoire p.123). Grimoire (2nd ed.) p.128."
+        "notes": "Detect enemies (SR2 p.153) with the Extended Range option. Range is printed \"Extended\": the successes on the separate Force Success Test used for limited range, multiplied by ten times the magician's Magic, in metres (Grimoire p.123). Grimoire (2nd ed.) p.128.",
+        "citation": {
+          "book": "grim",
+          "page": "123"
+        }
       },
       "effects": [],
       "flags": {},
@@ -552,7 +564,11 @@
         "damageCode": "",
         "isAreaEffect": false,
         "isVoluntary": false,
-        "notes": "SR2E p.185. Stabilizes a dying character."
+        "notes": "SR2E p.185. Stabilizes a dying character.",
+        "citation": {
+          "book": "sr2",
+          "page": "185"
+        }
       },
       "effects": [],
       "flags": {},
@@ -589,7 +605,11 @@
         "damageCode": "",
         "isAreaEffect": true,
         "isVoluntary": false,
-        "notes": "Like mana barrier (SR2 p.158), but protects against spells. The personal form drains ((F / 2) + 2)L. Drain from the Table of Spells (p.134), ((F / 2) + 1)M; the entry prints ((F / 2) + 2)M, but the anti-spell barrier is designed to drain less (p.125). Grimoire (2nd ed.) p.132."
+        "notes": "Like mana barrier (SR2 p.158), but protects against spells. The personal form drains ((F / 2) + 2)L. Drain from the Table of Spells (p.134), ((F / 2) + 1)M; the entry prints ((F / 2) + 2)M, but the anti-spell barrier is designed to drain less (p.125). Grimoire (2nd ed.) p.132.",
+        "citation": {
+          "book": "grim",
+          "page": "132"
+        }
       },
       "effects": [],
       "flags": {},
@@ -627,7 +647,11 @@
         "isVoluntary": false,
         "notes": "SR2E p.155. Target number 8 − subject's Essence. Boxes healed = successes. Treat must be applied within one hour of the injury. A character can only be magically treated or healed once per set of injuries. Type Mana, Range Touch, Permanent. Drain is (F / 2) at the subject's current Wound Level.",
         "healsDamage": true,
-        "healingTnBase": 8
+        "healingTnBase": 8,
+        "citation": {
+          "book": "sr2",
+          "page": "155"
+        }
       },
       "effects": [],
       "flags": {},

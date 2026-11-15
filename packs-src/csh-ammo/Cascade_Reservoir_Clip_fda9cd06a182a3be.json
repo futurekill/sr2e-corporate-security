@@ -12,7 +12,11 @@
     "ammoType": "cartridge",
     "cost": 20,
     "streetIndex": 2,
-    "notes": "Extra DMSO gel reservoir clip for the Ares Cascade, 20¥. Corporate Security Handbook p.68."
+    "notes": "Extra DMSO gel reservoir clip for the Ares Cascade, 20¥. Corporate Security Handbook p.68.",
+    "citation": {
+      "book": "csh",
+      "page": "68"
+    }
   },
   "effects": [],
   "flags": {},
