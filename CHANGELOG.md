@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- **Citations**: every catalog item (and vehicle) records the page it's printed on (`system.citation`), shown as a badge on its sheet (needs sr2e 0.156.0+). `npm run validate` now fails an entry without one.
+
 ## 0.2.4 — 2026-11-11
 
 ### Fixed
